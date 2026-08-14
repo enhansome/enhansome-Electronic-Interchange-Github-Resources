@@ -596,10 +596,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T08:25:29Z",
+            "last_commit": "2026-08-14T08:22:13Z",
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 53691
+            "stars": 53710
           }
         },
         {
@@ -652,7 +652,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T08:26:58Z",
+            "last_commit": "2026-08-13T17:46:41Z",
             "owner": "OCA",
             "repo": "edi",
             "stars": 141
@@ -969,9 +969,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T08:44:19.183Z",
+    "last_updated": "2026-08-14T08:37:44.559Z",
     "original_repository": "michaelachrisco/Electronic-Interchange-Github-Resources",
-    "original_repository_sha": "d692d24d2a3c37dcbbcd06b8e1471f94693a7b2d",
+    "original_repository_sha": "31f5e48effe0838d9123fdb0c2609c553fba59b9",
     "enhanced_repository": "enhansome/enhansome-Electronic-Interchange-Github-Resources",
     "enhanced_repository_description": null,
     "title": "Awesome Electronic-Interchange-Github-Resources with stars"
