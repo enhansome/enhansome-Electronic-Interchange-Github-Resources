@@ -66,10 +66,10 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ### Golang
 
-* [jf-tech/omniparser](https://github.com/jf-tech/omniparser) ⭐ 1,084 | 🐛 0 | 🌐 Go | 📅 2025-02-21 - omniparser is a native Golang ETL parser that ingests input data of various
+* [jf-tech/omniparser](https://github.com/jf-tech/omniparser) ⭐ 1,085 | 🐛 0 | 🌐 Go | 📅 2025-02-21 - omniparser is a native Golang ETL parser that ingests input data of various
   formats (CSV, txt, fixed length/width, XML, EDI/X12/EDIFACT, JSON, and custom formats) in streaming fashion and transforms data into desired
-  JSON output based on a schema written in JSON. See [EDI](https://github.com/jf-tech/omniparser/blob/master/doc/edi_in_depth.md) ⭐ 1,084 | 🐛 0 | 🌐 Go | 📅 2025-02-21 and
-  [EDI readers](https://github.com/jf-tech/omniparser/blob/master/doc/programmability.md#full-edi-reader) ⭐ 1,084 | 🐛 0 | 🌐 Go | 📅 2025-02-21 for more usage details.
+  JSON output based on a schema written in JSON. See [EDI](https://github.com/jf-tech/omniparser/blob/master/doc/edi_in_depth.md) ⭐ 1,085 | 🐛 0 | 🌐 Go | 📅 2025-02-21 and
+  [EDI readers](https://github.com/jf-tech/omniparser/blob/master/doc/programmability.md#full-edi-reader) ⭐ 1,085 | 🐛 0 | 🌐 Go | 📅 2025-02-21 for more usage details.
 * [moov-io/x12](https://github.com/moov-io/x12) ⭐ 20 | 🐛 4 | 🌐 Go | 📅 2026-08-11 - ASC X12 standards reader/writer
 
 ## CLI utilities
@@ -81,9 +81,9 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ## Systems or Paid Services
 
-* [Odoo](https://github.com/odoo/odoo) ⭐ 53,710 | 🐛 10,417 | 🌐 Python | 📅 2026-08-14 - Odoo. Open Source Apps To Grow Your Business.
+* [Odoo](https://github.com/odoo/odoo) ⭐ 53,725 | 🐛 10,388 | 🌐 Python | 📅 2026-08-15 - Odoo. Open Source Apps To Grow Your Business.
 * [nextgenhealthcare](https://github.com/nextgenhealthcare/connect) ⭐ 1,190 | 🐛 410 | 🌐 Java | 📅 2024-09-23 - The swiss army knife of healthcare integration.
-* [blueseerERP/blueseer](https://github.com/blueseerERP/blueseer) ⭐ 167 | 🐛 10 | 🌐 Java | 📅 2026-08-05 - A Free ERP and EDI solution for the manufacturing community.
+* [blueseerERP/blueseer](https://github.com/blueseerERP/blueseer) ⭐ 167 | 🐛 10 | 🌐 Java | 📅 2026-08-14 - A Free ERP and EDI solution for the manufacturing community.
 * [BerryWorksSoftware/edireader](https://github.com/BerryWorksSoftware/edireader) ⭐ 141 | 🐛 13 | 🌐 Java | 📅 2026-07-24 - EDIReader is a Java package for parsing business documents structured according to EDI standards. It supports the SAX and JAXP interfaces defined for XML, making it suitable for use in any XML-based system that allows the configuration of a custom SAX parser.
 * [OCA/edi](https://github.com/OCA/edi) ⭐ 141 | 🐛 61 | 🌐 Python | 📅 2026-08-13 - EDI Modules for Ooda
 * [EdiFabric/EDIFACT-Examples](https://github.com/EdiFabric/EDIFACT-Examples) ⭐ 110 | 🐛 3 | 🌐 C# | 📅 2026-06-12 -  EDIFACT and EANCOM Examples for EdiFabric EDI Tools
@@ -101,7 +101,7 @@ List of EDI Github Resources. Pull Requests are Welcome!
 ## Examples
 
 * [PHP Implementations of Transactions](https://github.com/stephenmccready/X12) ⭐ 18 | 🐛 0 | 🌐 PHP | 📅 2023-03-04 - PHP examples of writing EDI from scratch.
-* [Healthcare-Data-Insight/api-examples](https://github.com/Healthcare-Data-Insight/api-examples) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2026-08-05 - X12 EDI Converter API and Java parser usage examples
+* [Healthcare-Data-Insight/api-examples](https://github.com/Healthcare-Data-Insight/api-examples) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2026-08-14 - X12 EDI Converter API and Java parser usage examples
 * [walkswithme/EDI-X12-ANSI-270](https://github.com/walkswithme/EDI-X12-ANSI-270) ⭐ 8 | 🐛 0 | 🌐 PHP | 📅 2017-12-07 - PHP Library for creating EDI X12 ANSI 270 File 5010 Version
 * [EdiFabric/EDI-Translator-Demo](https://github.com/EdiFabric/EDI-Translator-Demo) ⭐ 6 | 🐛 0 | 🌐 C# | 📅 2026-06-12 - EDI Translator for EDIFACT D.96A, X12 004010 and HIPAA 5010
 * [EDI Bootstrap (Stedi)](https://github.com/Stedi-Demos/bootstrap) ⚠️ Archived - open-source, end-to-end system to generate and parse X12 EDI from a JSON
@@ -112,7 +112,7 @@ List of EDI Github Resources. Pull Requests are Welcome!
 * [X12 Reference](https://www.stedi.com/edi/x12) - Free online viewer for all releases of X12 specifications.
 * [EDI Guide Catalog](https://www.stedi.com/edi/catalog) - An open directory of the most-requested Stedi Guides, interactive EDI specifications that let you instantly validate EDI documents.
 * [EDIFACT Reference](https://www.stedi.com/edi/edifact) - Free online viewer for all releases of EDIFACT specifications.
-* [Stedi/awesome-edi](https://github.com/Stedi/awesome-edi) ⭐ 144 | 🐛 4 | 📅 2026-04-14 - List by Stedi of related resources.
+* [Stedi/awesome-edi](https://github.com/Stedi/awesome-edi) ⭐ 144 | 🐛 5 | 📅 2026-04-14 - List by Stedi of related resources.
 
 ## Syntax Highlighters
 
@@ -140,4 +140,4 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._

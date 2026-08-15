@@ -503,7 +503,7 @@
             "last_commit": "2025-02-21T17:27:14Z",
             "owner": "jf-tech",
             "repo": "omniparser",
-            "stars": 1084
+            "stars": 1085
           }
         },
         {
@@ -596,10 +596,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T08:22:13Z",
+            "last_commit": "2026-08-15T07:33:48Z",
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 53710
+            "stars": 53725
           }
         },
         {
@@ -624,7 +624,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-05T03:22:21Z",
+            "last_commit": "2026-08-14T12:17:46Z",
             "owner": "blueseerERP",
             "repo": "blueseer",
             "stars": 167
@@ -784,7 +784,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-05T17:34:29Z",
+            "last_commit": "2026-08-14T19:26:44Z",
             "owner": "Healthcare-Data-Insight",
             "repo": "api-examples",
             "stars": 16
@@ -969,7 +969,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T08:37:44.559Z",
+    "last_updated": "2026-08-15T07:44:44.410Z",
     "original_repository": "michaelachrisco/Electronic-Interchange-Github-Resources",
     "original_repository_sha": "31f5e48effe0838d9123fdb0c2609c553fba59b9",
     "enhanced_repository": "enhansome/enhansome-Electronic-Interchange-Github-Resources",
