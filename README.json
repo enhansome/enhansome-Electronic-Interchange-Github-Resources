@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-11T12:01:06Z",
+            "last_commit": "2026-08-17T13:16:53Z",
             "owner": "xlate",
             "repo": "staedi",
             "stars": 150
@@ -210,10 +210,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-05T04:55:32Z",
+            "last_commit": "2026-08-17T10:44:20Z",
             "owner": "nerdocs",
             "repo": "pydifact",
-            "stars": 190
+            "stars": 189
           }
         },
         {
@@ -514,7 +514,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-11T19:24:09Z",
+            "last_commit": "2026-08-17T22:31:35Z",
             "owner": "moov-io",
             "repo": "x12",
             "stars": 20
@@ -596,10 +596,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T07:58:48Z",
+            "last_commit": "2026-08-18T07:46:41Z",
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 53745
+            "stars": 53769
           }
         },
         {
@@ -652,7 +652,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T17:46:41Z",
+            "last_commit": "2026-08-17T11:46:47Z",
             "owner": "OCA",
             "repo": "edi",
             "stars": 141
@@ -969,7 +969,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T08:01:10.951Z",
+    "last_updated": "2026-08-18T07:54:31.822Z",
     "original_repository": "michaelachrisco/Electronic-Interchange-Github-Resources",
     "original_repository_sha": "31f5e48effe0838d9123fdb0c2609c553fba59b9",
     "enhanced_repository": "enhansome/enhansome-Electronic-Interchange-Github-Resources",
