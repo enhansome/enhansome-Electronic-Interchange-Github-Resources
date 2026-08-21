@@ -9,9 +9,9 @@ List of EDI Github Resources. Pull Requests are Welcome!
 ### Java
 
 * [smooks/smooks](https://github.com/smooks/smooks) ⭐ 417 | 🐛 35 | 🌐 Java | 📅 2025-11-24 - An extensible Java framework for building XML and non-XML (CSV, EDI, Java, etc...) streaming applications
-* [xlate/staedi](https://github.com/xlate/staedi) ⭐ 150 | 🐛 7 | 🌐 Java | 📅 2026-08-17 - General X12/EDIFACT stream reader and writer with support for validation of standards with optional schema customizations (i.e. implementation guides)
+* [xlate/staedi](https://github.com/xlate/staedi) ⭐ 150 | 🐛 7 | 🌐 Java | 📅 2026-08-20 - General X12/EDIFACT stream reader and writer with support for validation of standards with optional schema customizations (i.e. implementation guides)
 * [BerryWorksSoftware/edi-json](https://github.com/BerryWorksSoftware/edi-json) ⭐ 110 | 🐛 14 | 🌐 Java | 📅 2025-11-07 - Serializing EDI as JSON
-* [ballerina-platform/edi-tools](https://github.com/ballerina-platform/edi-tools) ⭐ 109 | 🐛 2 | 🌐 Ballerina | 📅 2026-08-03 - This library provides the functionality required to process EDI files and implement EDI integrations.
+* [ballerina-platform/edi-tools](https://github.com/ballerina-platform/edi-tools) ⭐ 109 | 🐛 2 | 🌐 Ballerina | 📅 2026-08-21 - This library provides the functionality required to process EDI files and implement EDI integrations.
 * [imsweb/x12-parser](https://github.com/imsweb/x12-parser) ⭐ 96 | 🐛 8 | 🌐 Java | 📅 2026-06-17 - A Java parser for ANSI ASC X12 documents.
 * [walmartlabs/gozer](https://github.com/walmartlabs/gozer) ⭐ 76 | 🐛 8 | 🌐 Java | 📅 2026-02-10 - The EDI X12 Standard provides a uniform way for companies to exchange information across different sectors.
 * [mrcsparker/nifi-edireader-bundle](https://github.com/mrcsparker/nifi-edireader-bundle) ⭐ 37 | 🐛 4 | 🌐 Java | 📅 2024-05-27 - Apache NIFI processor that converts EDI ASC X12 and EDIFACT documents into XML
@@ -49,7 +49,7 @@ List of EDI Github Resources. Pull Requests are Welcome!
 * [tastypackets/x12-parser](https://github.com/tastypackets/x12-parser) ⭐ 62 | 🐛 9 | 🌐 TypeScript | 📅 2026-04-06 - X12 parser implemented using the NodeJS Transform API. Tested with over 1M 835 records, but is designed to work with all modern X12 records.
 * [aaronhuggins/node-x12](https://github.com/aaronhuggins/node-x12) ⭐ 55 | 🐛 10 | 🌐 TypeScript | 📅 2022-04-30 - ASC X12 parser, generator, query engine, and mapper; now with support for streams.
 * [tdecaluwe/node-edifact](https://github.com/tdecaluwe/node-edifact) ⭐ 53 | 🐛 8 | 🌐 JavaScript | 📅 2021-01-19 - (Javascript) Javascript stream parser for UN/EDIFACT documents.
-* [dlumpp/x12-patient-faker](https://github.com/dlumpp/x12-patient-faker) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-13 - Generates test patient data in HIPAA X12 format
+* [dlumpp/x12-patient-faker](https://github.com/dlumpp/x12-patient-faker) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-21 - Generates test patient data in HIPAA X12 format
 * [parcelLab/edi-iftmin](https://github.com/parcelLab/edi-iftmin) ⚠️ Archived - Parsing EDI IFTMIN and IFTSTA messages properly. Yes, EDI. You're welcome.
 * [jinger89/era](https://github.com/jinger89/era) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2025-05-20 - Extremely basic X12 835 file parser
 
@@ -66,10 +66,10 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ### Golang
 
-* [jf-tech/omniparser](https://github.com/jf-tech/omniparser) ⭐ 1,085 | 🐛 0 | 🌐 Go | 📅 2025-02-21 - omniparser is a native Golang ETL parser that ingests input data of various
+* [jf-tech/omniparser](https://github.com/jf-tech/omniparser) ⭐ 1,086 | 🐛 0 | 🌐 Go | 📅 2025-02-21 - omniparser is a native Golang ETL parser that ingests input data of various
   formats (CSV, txt, fixed length/width, XML, EDI/X12/EDIFACT, JSON, and custom formats) in streaming fashion and transforms data into desired
-  JSON output based on a schema written in JSON. See [EDI](https://github.com/jf-tech/omniparser/blob/master/doc/edi_in_depth.md) ⭐ 1,085 | 🐛 0 | 🌐 Go | 📅 2025-02-21 and
-  [EDI readers](https://github.com/jf-tech/omniparser/blob/master/doc/programmability.md#full-edi-reader) ⭐ 1,085 | 🐛 0 | 🌐 Go | 📅 2025-02-21 for more usage details.
+  JSON output based on a schema written in JSON. See [EDI](https://github.com/jf-tech/omniparser/blob/master/doc/edi_in_depth.md) ⭐ 1,086 | 🐛 0 | 🌐 Go | 📅 2025-02-21 and
+  [EDI readers](https://github.com/jf-tech/omniparser/blob/master/doc/programmability.md#full-edi-reader) ⭐ 1,086 | 🐛 0 | 🌐 Go | 📅 2025-02-21 for more usage details.
 * [moov-io/x12](https://github.com/moov-io/x12) ⭐ 20 | 🐛 4 | 🌐 Go | 📅 2026-08-19 - ASC X12 standards reader/writer
 
 ## CLI utilities
@@ -81,7 +81,7 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ## Systems or Paid Services
 
-* [Odoo](https://github.com/odoo/odoo) ⭐ 53,814 | 🐛 10,584 | 🌐 Python | 📅 2026-08-20 - Odoo. Open Source Apps To Grow Your Business.
+* [Odoo](https://github.com/odoo/odoo) ⭐ 53,832 | 🐛 10,605 | 🌐 Python | 📅 2026-08-21 - Odoo. Open Source Apps To Grow Your Business.
 * [nextgenhealthcare](https://github.com/nextgenhealthcare/connect) ⭐ 1,190 | 🐛 410 | 🌐 Java | 📅 2024-09-23 - The swiss army knife of healthcare integration.
 * [blueseerERP/blueseer](https://github.com/blueseerERP/blueseer) ⭐ 167 | 🐛 10 | 🌐 Java | 📅 2026-08-19 - A Free ERP and EDI solution for the manufacturing community.
 * [BerryWorksSoftware/edireader](https://github.com/BerryWorksSoftware/edireader) ⭐ 141 | 🐛 13 | 🌐 Java | 📅 2026-07-24 - EDIReader is a Java package for parsing business documents structured according to EDI standards. It supports the SAX and JAXP interfaces defined for XML, making it suitable for use in any XML-based system that allows the configuration of a custom SAX parser.
@@ -140,4 +140,4 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._

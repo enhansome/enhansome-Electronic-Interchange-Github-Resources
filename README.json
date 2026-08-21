@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 94276393,
                 "language": "Java",
-                "last_commit": "2026-08-17T13:16:53Z",
+                "last_commit": "2026-08-20T11:52:13Z",
                 "owner": "xlate",
                 "repo": "staedi",
                 "stars": 150
@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 626312690,
                 "language": "Ballerina",
-                "last_commit": "2026-08-03T14:23:06Z",
+                "last_commit": "2026-08-21T07:25:14Z",
                 "owner": "ballerina-platform",
                 "repo": "edi-tools",
                 "stars": 109
@@ -417,7 +417,7 @@
                 "archived": false,
                 "id": 121587850,
                 "language": "TypeScript",
-                "last_commit": "2026-04-13T02:20:46Z",
+                "last_commit": "2026-08-21T01:55:31Z",
                 "owner": "dlumpp",
                 "repo": "x12-patient-faker",
                 "stars": 9
@@ -539,7 +539,7 @@
                 "last_commit": "2025-02-21T17:27:14Z",
                 "owner": "jf-tech",
                 "repo": "omniparser",
-                "stars": 1085
+                "stars": 1086
               }
             },
             {
@@ -643,10 +643,10 @@
             "archived": false,
             "id": 19745004,
             "language": "Python",
-            "last_commit": "2026-08-20T07:54:49Z",
+            "last_commit": "2026-08-21T07:51:39Z",
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 53814
+            "stars": 53832
           }
         },
         {
@@ -1041,7 +1041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T07:56:48.383Z",
+    "last_updated": "2026-08-21T07:57:36.336Z",
     "original_repository": "michaelachrisco/Electronic-Interchange-Github-Resources",
     "original_repository_id": 113229846,
     "original_repository_sha": "31f5e48effe0838d9123fdb0c2609c553fba59b9",
