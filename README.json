@@ -551,7 +551,7 @@
                 "archived": false,
                 "id": 613978039,
                 "language": "Go",
-                "last_commit": "2026-08-19T23:49:34Z",
+                "last_commit": "2026-08-21T20:33:15Z",
                 "owner": "moov-io",
                 "repo": "x12",
                 "stars": 20
@@ -643,10 +643,10 @@
             "archived": false,
             "id": 19745004,
             "language": "Python",
-            "last_commit": "2026-08-21T07:51:39Z",
+            "last_commit": "2026-08-22T07:45:12Z",
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 53832
+            "stars": 53850
           }
         },
         {
@@ -688,7 +688,7 @@
             "archived": false,
             "id": 34661048,
             "language": "Java",
-            "last_commit": "2026-07-24T18:40:53Z",
+            "last_commit": "2026-08-21T17:07:25Z",
             "owner": "BerryWorksSoftware",
             "repo": "edireader",
             "stars": 141
@@ -1041,7 +1041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T07:57:36.336Z",
+    "last_updated": "2026-08-22T07:46:02.305Z",
     "original_repository": "michaelachrisco/Electronic-Interchange-Github-Resources",
     "original_repository_id": 113229846,
     "original_repository_sha": "31f5e48effe0838d9123fdb0c2609c553fba59b9",
