@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 626312690,
                 "language": "Ballerina",
-                "last_commit": "2026-08-21T07:25:14Z",
+                "last_commit": "2026-08-23T17:39:19Z",
                 "owner": "ballerina-platform",
                 "repo": "edi-tools",
                 "stars": 109
@@ -643,10 +643,10 @@
             "archived": false,
             "id": 19745004,
             "language": "Python",
-            "last_commit": "2026-08-23T07:43:28Z",
+            "last_commit": "2026-08-24T08:03:06Z",
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 53869
+            "stars": 53902
           }
         },
         {
@@ -673,7 +673,7 @@
             "archived": false,
             "id": 227373743,
             "language": "Java",
-            "last_commit": "2026-08-19T18:50:09Z",
+            "last_commit": "2026-08-23T14:40:23Z",
             "owner": "blueseerERP",
             "repo": "blueseer",
             "stars": 167
@@ -1041,7 +1041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T07:47:33.974Z",
+    "last_updated": "2026-08-24T08:04:19.495Z",
     "original_repository": "michaelachrisco/Electronic-Interchange-Github-Resources",
     "original_repository_id": 113229846,
     "original_repository_sha": "31f5e48effe0838d9123fdb0c2609c553fba59b9",
