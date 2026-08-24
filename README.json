@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 94276393,
                 "language": "Java",
-                "last_commit": "2026-08-20T11:52:13Z",
+                "last_commit": "2026-08-24T13:50:39Z",
                 "owner": "xlate",
                 "repo": "staedi",
                 "stars": 150
@@ -313,6 +313,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "kuyawa/EdiMapper",
+              "description": "Convert EDI Documents to XML",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94571786,
+                "language": "Swift",
+                "last_commit": "2017-06-16T19:04:05Z",
+                "owner": "kuyawa",
+                "repo": "EdiMapper",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Swift"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "php-edifact/edifact",
               "description": "(PHP) Tools to process EDI messages in UN/EDIFACT format",
               "children": [],
@@ -529,6 +551,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "sezna/edi",
+              "description": "Rust crate for parsing X12 EDI and acting on it. Supports serialization to a variety of formats including JSON.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 212919454,
+                "language": "Rust",
+                "last_commit": "2025-08-12T15:22:53Z",
+                "owner": "sezna",
+                "repo": "edi",
+                "stars": 35
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Rust"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "jf-tech/omniparser",
               "description": "omniparser is a native Golang ETL parser that ingests input data of various formats (CSV, txt, fixed length/width, XML, EDI/X12/EDIFACT, JSON, and custom formats) in streaming fashion and transforms data into desired JSON output based on a schema written in JSON. See EDI and EDI readers for more usage details.",
               "children": [],
@@ -643,10 +687,10 @@
             "archived": false,
             "id": 19745004,
             "language": "Python",
-            "last_commit": "2026-08-24T08:03:06Z",
+            "last_commit": "2026-08-24T14:11:21Z",
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 53902
+            "stars": 53910
           }
         },
         {
@@ -673,7 +717,7 @@
             "archived": false,
             "id": 227373743,
             "language": "Java",
-            "last_commit": "2026-08-23T14:40:23Z",
+            "last_commit": "2026-08-24T13:40:04Z",
             "owner": "blueseerERP",
             "repo": "blueseer",
             "stars": 167
@@ -1038,10 +1082,52 @@
         }
       ],
       "title": "Syntax Highlighters"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RKDN/x12Tool",
+          "description": "A tool for reading and modifying x12/EDI files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 146214429,
+            "language": "C#",
+            "last_commit": "2018-08-28T13:27:21Z",
+            "owner": "RKDN",
+            "repo": "x12Tool",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Standalone editors"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tediware/tedicli",
+          "description": "Official command line interface (CLI) tool for Tediware",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1284156523,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T06:38:22Z",
+            "owner": "Tediware",
+            "repo": "tedicli",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "AI created or used"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:04:19.495Z",
+    "last_updated": "2026-08-24T14:26:22.342Z",
     "original_repository": "michaelachrisco/Electronic-Interchange-Github-Resources",
     "original_repository_id": 113229846,
     "original_repository_sha": "31f5e48effe0838d9123fdb0c2609c553fba59b9",
