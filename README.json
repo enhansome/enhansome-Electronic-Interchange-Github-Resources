@@ -687,10 +687,10 @@
             "archived": false,
             "id": 19745004,
             "language": "Python",
-            "last_commit": "2026-08-24T14:11:21Z",
+            "last_commit": "2026-08-25T06:11:03Z",
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 53910
+            "stars": 53924
           }
         },
         {
@@ -717,7 +717,7 @@
             "archived": false,
             "id": 227373743,
             "language": "Java",
-            "last_commit": "2026-08-24T13:40:04Z",
+            "last_commit": "2026-08-24T14:49:14Z",
             "owner": "blueseerERP",
             "repo": "blueseer",
             "stars": 167
@@ -1127,7 +1127,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:26:22.342Z",
+    "last_updated": "2026-08-25T06:19:00.374Z",
     "original_repository": "michaelachrisco/Electronic-Interchange-Github-Resources",
     "original_repository_id": 113229846,
     "original_repository_sha": "31f5e48effe0838d9123fdb0c2609c553fba59b9",
