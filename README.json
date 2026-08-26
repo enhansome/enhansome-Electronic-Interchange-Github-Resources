@@ -583,7 +583,7 @@
                 "last_commit": "2025-02-21T17:27:14Z",
                 "owner": "jf-tech",
                 "repo": "omniparser",
-                "stars": 1086
+                "stars": 1087
               }
             },
             {
@@ -595,7 +595,7 @@
                 "archived": false,
                 "id": 613978039,
                 "language": "Go",
-                "last_commit": "2026-08-21T20:33:15Z",
+                "last_commit": "2026-08-25T20:57:34Z",
                 "owner": "moov-io",
                 "repo": "x12",
                 "stars": 20
@@ -687,10 +687,10 @@
             "archived": false,
             "id": 19745004,
             "language": "Python",
-            "last_commit": "2026-08-25T07:40:45Z",
+            "last_commit": "2026-08-26T07:54:03Z",
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 53924
+            "stars": 53954
           }
         },
         {
@@ -717,10 +717,10 @@
             "archived": false,
             "id": 227373743,
             "language": "Java",
-            "last_commit": "2026-08-24T14:49:14Z",
+            "last_commit": "2026-08-25T19:48:39Z",
             "owner": "blueseerERP",
             "repo": "blueseer",
-            "stars": 167
+            "stars": 168
           }
         },
         {
@@ -1127,7 +1127,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T07:58:40.928Z",
+    "last_updated": "2026-08-26T08:00:06.088Z",
     "original_repository": "michaelachrisco/Electronic-Interchange-Github-Resources",
     "original_repository_id": 113229846,
     "original_repository_sha": "31f5e48effe0838d9123fdb0c2609c553fba59b9",
