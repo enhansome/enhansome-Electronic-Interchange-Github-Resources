@@ -9,7 +9,7 @@ List of EDI Github Resources. Pull Requests are Welcome!
 ### Java
 
 * [smooks/smooks](https://github.com/smooks/smooks) ⭐ 417 | 🐛 35 | 🌐 Java | 📅 2025-11-24 - An extensible Java framework for building XML and non-XML (CSV, EDI, Java, etc...) streaming applications
-* [xlate/staedi](https://github.com/xlate/staedi) ⭐ 150 | 🐛 7 | 🌐 Java | 📅 2026-08-24 - General X12/EDIFACT stream reader and writer with support for validation of standards with optional schema customizations (i.e. implementation guides)
+* [xlate/staedi](https://github.com/xlate/staedi) ⭐ 150 | 🐛 7 | 🌐 Java | 📅 2026-08-27 - General X12/EDIFACT stream reader and writer with support for validation of standards with optional schema customizations (i.e. implementation guides)
 * [BerryWorksSoftware/edi-json](https://github.com/BerryWorksSoftware/edi-json) ⭐ 110 | 🐛 14 | 🌐 Java | 📅 2025-11-07 - Serializing EDI as JSON
 * [ballerina-platform/edi-tools](https://github.com/ballerina-platform/edi-tools) ⭐ 109 | 🐛 1 | 🌐 Ballerina | 📅 2026-08-23 - This library provides the functionality required to process EDI files and implement EDI integrations.
 * [imsweb/x12-parser](https://github.com/imsweb/x12-parser) ⭐ 96 | 🐛 8 | 🌐 Java | 📅 2026-06-17 - A Java parser for ANSI ASC X12 documents.
@@ -70,7 +70,7 @@ List of EDI Github Resources. Pull Requests are Welcome!
   formats (CSV, txt, fixed length/width, XML, EDI/X12/EDIFACT, JSON, and custom formats) in streaming fashion and transforms data into desired
   JSON output based on a schema written in JSON. See [EDI](https://github.com/jf-tech/omniparser/blob/master/doc/edi_in_depth.md) ⭐ 1,087 | 🐛 0 | 🌐 Go | 📅 2025-02-21 and
   [EDI readers](https://github.com/jf-tech/omniparser/blob/master/doc/programmability.md#full-edi-reader) ⭐ 1,087 | 🐛 0 | 🌐 Go | 📅 2025-02-21 for more usage details.
-* [moov-io/x12](https://github.com/moov-io/x12) ⭐ 20 | 🐛 4 | 🌐 Go | 📅 2026-08-25 - ASC X12 standards reader/writer
+* [moov-io/x12](https://github.com/moov-io/x12) ⭐ 20 | 🐛 4 | 🌐 Go | 📅 2026-08-27 - ASC X12 standards reader/writer
 
 ## CLI utilities
 
@@ -81,19 +81,19 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ## Systems or Paid Services
 
-* [Odoo](https://github.com/odoo/odoo) ⭐ 53,954 | 🐛 10,444 | 🌐 Python | 📅 2026-08-26 - Odoo. Open Source Apps To Grow Your Business.
+* [Odoo](https://github.com/odoo/odoo) ⭐ 53,981 | 🐛 10,441 | 🌐 Python | 📅 2026-08-27 - Odoo. Open Source Apps To Grow Your Business.
 * [nextgenhealthcare](https://github.com/nextgenhealthcare/connect) ⭐ 1,190 | 🐛 410 | 🌐 Java | 📅 2024-09-23 - The swiss army knife of healthcare integration.
-* [blueseerERP/blueseer](https://github.com/blueseerERP/blueseer) ⭐ 168 | 🐛 10 | 🌐 Java | 📅 2026-08-25 - A Free ERP and EDI solution for the manufacturing community.
+* [blueseerERP/blueseer](https://github.com/blueseerERP/blueseer) ⭐ 168 | 🐛 10 | 🌐 Java | 📅 2026-08-26 - A Free ERP and EDI solution for the manufacturing community.
 * [BerryWorksSoftware/edireader](https://github.com/BerryWorksSoftware/edireader) ⭐ 141 | 🐛 13 | 🌐 Java | 📅 2026-08-21 - EDIReader is a Java package for parsing business documents structured according to EDI standards. It supports the SAX and JAXP interfaces defined for XML, making it suitable for use in any XML-based system that allows the configuration of a custom SAX parser.
 * [OCA/edi](https://github.com/OCA/edi) ⭐ 141 | 🐛 62 | 🌐 Python | 📅 2026-08-18 - EDI Modules for Ooda
 * [EdiFabric/EDIFACT-Examples](https://github.com/EdiFabric/EDIFACT-Examples) ⭐ 110 | 🐛 3 | 🌐 C# | 📅 2026-06-12 -  EDIFACT and EANCOM Examples for EdiFabric EDI Tools
 * [EdiFabric/X12-Examples](https://github.com/EdiFabric/X12-Examples) ⭐ 83 | 🐛 2 | 🌐 C# | 📅 2026-06-12 - X12 and HIPAA Examples for EdiFabric EDI Tools
 * [abhishek-ram/pyas2](https://github.com/abhishek-ram/pyas2) ⭐ 47 | 🐛 8 | 🌐 Python | 📅 2020-07-24 - A pythonic AS2 client and server
-* [MicrosoftDocs/biztalk-docs](https://github.com/MicrosoftDocs/biztalk-docs) ⭐ 43 | 🐛 0 | 📅 2026-03-26 - Microsoft Biztalk documentation
 * [smooks/smooks-edi-cartridge](https://github.com/smooks/smooks-edi-cartridge) ⭐ 30 | 🐛 22 | 🌐 Java | 📅 2025-11-24 - Smooks EDI & EDIFACT cartridges for reading as well as writing EDI.
 * [Campbellony/X12SqlServer](https://github.com/campbellony/x12sqlserver) ⭐ 5 | 🐛 0 | 🌐 PLpgSQL | 📅 2018-11-29 - Simple X12 data model with TSQL parsing procedures
 * [Javonet/RDPCrystal](https://github.com/Javonet/RDPCrystal) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2018-12-13 - Java based EDI platform with example EDI solutions.
 * [bots-edi/bots](https://github.com/bots-edi) - Bots EDI Translator
+* [MicrosoftDocs/biztalk-docs](https://github.com/MicrosoftDocs/biztalk-docs) - Microsoft Biztalk documentation
 * [Mulesoft](https://github.com/mulesoft) - Collection of Mulesoft Repositories.
 * [EDIdEv](https://www.edidev.com) - The EDIdEv Framework EDI (FREDI) solution is comprised of an EDI tool and a customizable EDI application.
 * [EDI Platform](https://www.stedi.com/edi-platform) - Simplify your EDI. Onboard partners fast. Integrate once.
@@ -118,7 +118,7 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 * [Silvenga/vscode-edi-x12-support](https://github.com/Silvenga/vscode-edi-x12-support) ⭐ 33 | 🐛 5 | 🌐 TypeScript | 📅 2019-09-21 - A Visual Studio Code extension aimed at providing basic support for the EDI format.
 * [hellooops/Edi Support](https://github.com/hellooops/vscode-edi-support) ⭐ 30 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-30 - Visual Studio Code extension providing language support for X12/HIPAA and EDIFACT
-* [DAXaholic/vscode-edifact](https://github.com/DAXaholic/vscode-edifact) ⭐ 20 | 🐛 5 | 🌐 TypeScript | 📅 2023-03-19 - Visual Studio Code extension providing basic language support for EDIFACT files.
+* [DAXaholic/vscode-edifact](https://github.com/DAXaholic/vscode-edifact) ⭐ 20 | 🐛 4 | 🌐 TypeScript | 📅 2023-03-19 - Visual Studio Code extension providing basic language support for EDIFACT files.
 * [kreddys/edi-lens](https://github.com/kreddys/edi-lens) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2025-09-30 - EDI Lens is a web-based developer tool designed to help view, parse, and understand the structure of X12 EDI Files
 * [vim-scripts/x12-syntax](https://github.com/vim-scripts/x12-syntax) ⭐ 4 | 🐛 0 | 🌐 VimL | 📅 2017-11-08 - A simple syntax highlighter for EDI X12 files. Currently only Healthcare 270/271s are tested.
 * [clarkema/x12-mode](https://github.com/clarkema/x12-mode) ⭐ 3 | 🐛 0 | 🌐 Emacs Lisp | 📅 2019-07-20 - An Emacs major mode for X12 EDI files
@@ -140,4 +140,4 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
