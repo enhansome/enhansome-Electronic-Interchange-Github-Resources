@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-27T10:07:59Z",
                 "owner": "xlate",
                 "repo": "staedi",
-                "stars": 150
+                "stars": 151
               }
             },
             {
@@ -256,7 +256,7 @@
                 "last_commit": "2026-04-13T15:01:23Z",
                 "owner": "albmarin",
                 "repo": "badX12",
-                "stars": 59
+                "stars": 60
               }
             },
             {
@@ -595,7 +595,7 @@
                 "archived": false,
                 "id": 613978039,
                 "language": "Go",
-                "last_commit": "2026-08-27T03:10:42Z",
+                "last_commit": "2026-08-27T15:24:52Z",
                 "owner": "moov-io",
                 "repo": "x12",
                 "stars": 20
@@ -687,10 +687,10 @@
             "archived": false,
             "id": 19745004,
             "language": "Python",
-            "last_commit": "2026-08-27T11:34:19Z",
+            "last_commit": "2026-08-27T18:17:07Z",
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 53981
+            "stars": 53989
           }
         },
         {
@@ -1104,7 +1104,7 @@
             "last_commit": "2026-08-10T06:38:22Z",
             "owner": "Tediware",
             "repo": "tedicli",
-            "stars": 1
+            "stars": 3
           }
         }
       ],
@@ -1112,7 +1112,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:34:58.396Z",
+    "last_updated": "2026-08-27T18:17:27.506Z",
     "original_repository_info": {
       "archived": false,
       "id": 113229846,
