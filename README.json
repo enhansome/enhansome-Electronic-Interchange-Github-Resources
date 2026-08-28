@@ -18,7 +18,8 @@
                 "owner": "smooks",
                 "repo": "smooks",
                 "stars": 417
-              }
+              },
+              "first_seen": "2026-08-28T19:26:36.160Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "xlate",
                 "repo": "staedi",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-28T19:26:36.160Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "BerryWorksSoftware",
                 "repo": "edi-json",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-28T19:26:36.160Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "ballerina-platform",
                 "repo": "edi-tools",
                 "stars": 109
-              }
+              },
+              "first_seen": "2026-08-28T19:26:36.160Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "imsweb",
                 "repo": "x12-parser",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-28T19:26:36.160Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "walmartlabs",
                 "repo": "gozer",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-28T19:26:36.160Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "mrcsparker",
                 "repo": "nifi-edireader-bundle",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T19:26:36.160Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "moqui",
                 "repo": "mantle-edi",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T19:26:36.160Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "apifocal",
                 "repo": "x12-parser",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T19:26:36.160Z"
             }
           ],
           "description": null,
@@ -160,7 +169,8 @@
                 "owner": "indice-co",
                 "repo": "EDI.Net",
                 "stars": 491
-              }
+              },
+              "first_seen": "2026-08-28T19:26:36.160Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "olmelabs",
                 "repo": "EdiEngine",
                 "stars": 109
-              }
+              },
+              "first_seen": "2026-08-28T19:26:36.160Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "EdiWeave",
                 "repo": "EdiWeave",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T19:26:36.160Z"
             },
             {
               "node_type": "item",
@@ -205,7 +217,8 @@
                 "owner": "MassTransit",
                 "repo": "Machete",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T19:26:36.160Z"
             }
           ],
           "description": null,
@@ -227,7 +240,8 @@
                 "owner": "nerdocs",
                 "repo": "pydifact",
                 "stars": 190
-              }
+              },
+              "first_seen": "2026-08-28T19:26:36.160Z"
             },
             {
               "node_type": "item",
@@ -242,7 +256,8 @@
                 "owner": "keiron-stoddart",
                 "repo": "edi-835-parser",
                 "stars": 112
-              }
+              },
+              "first_seen": "2026-08-28T19:26:36.160Z"
             },
             {
               "node_type": "item",
@@ -257,7 +272,8 @@
                 "owner": "albmarin",
                 "repo": "badX12",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T19:26:36.160Z"
             },
             {
               "node_type": "item",
@@ -272,7 +288,8 @@
                 "owner": "glitchassassin",
                 "repo": "python-edi",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T19:26:36.160Z"
             },
             {
               "node_type": "item",
@@ -287,7 +304,8 @@
                 "owner": "slott56",
                 "repo": "TigerShark",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T19:26:36.160Z"
             },
             {
               "node_type": "item",
@@ -302,7 +320,8 @@
                 "owner": "greasysock",
                 "repo": "CahasEDI-Core",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T19:26:36.160Z"
             }
           ],
           "description": null,
@@ -324,7 +343,8 @@
                 "owner": "kuyawa",
                 "repo": "EdiMapper",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T19:26:36.160Z"
             }
           ],
           "description": null,
@@ -346,7 +366,8 @@
                 "owner": "php-edifact",
                 "repo": "edifact",
                 "stars": 287
-              }
+              },
+              "first_seen": "2026-08-28T19:26:36.160Z"
             },
             {
               "node_type": "item",
@@ -361,7 +382,8 @@
                 "owner": "php-edifact",
                 "repo": "edifact-generator",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T19:26:36.160Z"
             },
             {
               "node_type": "item",
@@ -376,7 +398,8 @@
                 "owner": "php-edifact",
                 "repo": "edifact-mapping",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T19:26:36.160Z"
             }
           ],
           "description": null,
@@ -398,7 +421,8 @@
                 "owner": "tastypackets",
                 "repo": "x12-parser",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T19:26:36.160Z"
             },
             {
               "node_type": "item",
@@ -413,7 +437,8 @@
                 "owner": "aaronhuggins",
                 "repo": "node-x12",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T19:26:36.160Z"
             },
             {
               "node_type": "item",
@@ -428,7 +453,8 @@
                 "owner": "tdecaluwe",
                 "repo": "node-edifact",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T19:26:36.160Z"
             },
             {
               "node_type": "item",
@@ -443,7 +469,8 @@
                 "owner": "dlumpp",
                 "repo": "x12-patient-faker",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T19:26:36.160Z"
             },
             {
               "node_type": "item",
@@ -458,7 +485,8 @@
                 "owner": "parcelLab-archive",
                 "repo": "edi-iftmin",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T19:26:36.160Z"
             },
             {
               "node_type": "item",
@@ -473,7 +501,8 @@
                 "owner": "jinger89",
                 "repo": "era",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T19:26:36.160Z"
             }
           ],
           "description": null,
@@ -495,7 +524,8 @@
                 "owner": "kputnam",
                 "repo": "stupidedi",
                 "stars": 292
-              }
+              },
+              "first_seen": "2026-08-28T19:26:36.160Z"
             },
             {
               "node_type": "item",
@@ -510,7 +540,8 @@
                 "owner": "tcd",
                 "repo": "eddy",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T19:26:36.160Z"
             },
             {
               "node_type": "item",
@@ -525,7 +556,8 @@
                 "owner": "ConsultingMD",
                 "repo": "ediot",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T19:26:36.160Z"
             },
             {
               "node_type": "item",
@@ -540,7 +572,8 @@
                 "owner": "greasysock",
                 "repo": "CahasEDI-Dashboard",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T19:26:36.160Z"
             }
           ],
           "description": null,
@@ -562,7 +595,8 @@
                 "owner": "sezna",
                 "repo": "edi",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T19:26:36.160Z"
             }
           ],
           "description": null,
@@ -584,7 +618,8 @@
                 "owner": "jf-tech",
                 "repo": "omniparser",
                 "stars": 1087
-              }
+              },
+              "first_seen": "2026-08-28T19:26:36.160Z"
             },
             {
               "node_type": "item",
@@ -599,7 +634,8 @@
                 "owner": "moov-io",
                 "repo": "x12",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T19:26:36.160Z"
             }
           ],
           "description": null,
@@ -625,7 +661,8 @@
             "owner": "azoner",
             "repo": "pyx12",
             "stars": 188
-          }
+          },
+          "first_seen": "2026-08-28T19:26:36.160Z"
         },
         {
           "node_type": "item",
@@ -640,7 +677,8 @@
             "owner": "notpeter",
             "repo": "edicat",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T19:26:36.160Z"
         },
         {
           "node_type": "item",
@@ -655,7 +693,8 @@
             "owner": "clarkema",
             "repo": "x12pp",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T19:26:36.160Z"
         },
         {
           "node_type": "item",
@@ -670,7 +709,8 @@
             "owner": "lanceengland",
             "repo": "EdiTools",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T19:26:36.160Z"
         }
       ],
       "title": "CLI utilities"
@@ -687,11 +727,12 @@
             "archived": false,
             "id": 19745004,
             "language": "Python",
-            "last_commit": "2026-08-27T18:17:07Z",
+            "last_commit": "2026-08-28T19:26:02Z",
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 53989
-          }
+            "stars": 54013
+          },
+          "first_seen": "2026-08-28T19:26:36.160Z"
         },
         {
           "node_type": "item",
@@ -705,8 +746,9 @@
             "last_commit": "2024-09-23T16:32:01Z",
             "owner": "nextgenhealthcare",
             "repo": "connect",
-            "stars": 1190
-          }
+            "stars": 1191
+          },
+          "first_seen": "2026-08-28T19:26:36.160Z"
         },
         {
           "node_type": "item",
@@ -717,11 +759,12 @@
             "archived": false,
             "id": 227373743,
             "language": "Java",
-            "last_commit": "2026-08-26T19:04:44Z",
+            "last_commit": "2026-08-28T13:06:00Z",
             "owner": "blueseerERP",
             "repo": "blueseer",
             "stars": 168
-          }
+          },
+          "first_seen": "2026-08-28T19:26:36.160Z"
         },
         {
           "node_type": "item",
@@ -736,7 +779,8 @@
             "owner": "BerryWorksSoftware",
             "repo": "edireader",
             "stars": 141
-          }
+          },
+          "first_seen": "2026-08-28T19:26:36.160Z"
         },
         {
           "node_type": "item",
@@ -751,7 +795,8 @@
             "owner": "OCA",
             "repo": "edi",
             "stars": 141
-          }
+          },
+          "first_seen": "2026-08-28T19:26:36.160Z"
         },
         {
           "node_type": "item",
@@ -766,7 +811,8 @@
             "owner": "EdiFabric",
             "repo": "EDIFACT.NET",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T19:26:36.160Z"
         },
         {
           "node_type": "item",
@@ -781,7 +827,8 @@
             "owner": "EdiFabric",
             "repo": "X12.NET",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T19:26:36.160Z"
         },
         {
           "node_type": "item",
@@ -796,7 +843,8 @@
             "owner": "abhishek-ram",
             "repo": "pyas2",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T19:26:36.160Z"
         },
         {
           "node_type": "item",
@@ -811,7 +859,8 @@
             "owner": "smooks",
             "repo": "smooks-edi-cartridge",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T19:26:36.160Z"
         },
         {
           "node_type": "item",
@@ -826,7 +875,8 @@
             "owner": "Campbellony",
             "repo": "X12SqlServer",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T19:26:36.160Z"
         },
         {
           "node_type": "item",
@@ -841,7 +891,8 @@
             "owner": "Javonet",
             "repo": "RDPCrystal",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T19:26:36.160Z"
         }
       ],
       "title": "Systems or Paid Services"
@@ -862,7 +913,8 @@
             "owner": "stephenmccready",
             "repo": "X12",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T19:26:36.160Z"
         },
         {
           "node_type": "item",
@@ -877,7 +929,8 @@
             "owner": "Healthcare-Data-Insight",
             "repo": "api-examples",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T19:26:36.160Z"
         },
         {
           "node_type": "item",
@@ -892,7 +945,8 @@
             "owner": "walkswithme",
             "repo": "EDI-X12-ANSI-270",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T19:26:36.160Z"
         },
         {
           "node_type": "item",
@@ -907,7 +961,8 @@
             "owner": "EdiFabric",
             "repo": "VDA.NET",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T19:26:36.160Z"
         },
         {
           "node_type": "item",
@@ -922,7 +977,8 @@
             "owner": "Stedi-Demos",
             "repo": "bootstrap-archived",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T19:26:36.160Z"
         },
         {
           "node_type": "item",
@@ -937,7 +993,8 @@
             "owner": "dipique",
             "repo": "EDI-X12",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T19:26:36.160Z"
         }
       ],
       "title": "Examples"
@@ -958,7 +1015,8 @@
             "owner": "Silvenga",
             "repo": "vscode-edi-x12-support",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T19:26:36.160Z"
         },
         {
           "node_type": "item",
@@ -973,7 +1031,8 @@
             "owner": "hellooops",
             "repo": "vscode-edi-support",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T19:26:36.160Z"
         },
         {
           "node_type": "item",
@@ -988,7 +1047,8 @@
             "owner": "DAXaholic",
             "repo": "vscode-edifact",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T19:26:36.160Z"
         },
         {
           "node_type": "item",
@@ -1003,7 +1063,8 @@
             "owner": "kreddys",
             "repo": "edi-lens",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T19:26:36.160Z"
         },
         {
           "node_type": "item",
@@ -1018,7 +1079,8 @@
             "owner": "vim-scripts",
             "repo": "x12-syntax",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T19:26:36.160Z"
         },
         {
           "node_type": "item",
@@ -1033,7 +1095,8 @@
             "owner": "clarkema",
             "repo": "x12-mode",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T19:26:36.160Z"
         },
         {
           "node_type": "item",
@@ -1048,7 +1111,8 @@
             "owner": "josesanchezcapo",
             "repo": "sublime-x12-highlighting",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T19:26:36.160Z"
         },
         {
           "node_type": "item",
@@ -1063,7 +1127,8 @@
             "owner": "michaelachrisco",
             "repo": "sublime-834-syntax",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T19:26:36.160Z"
         }
       ],
       "title": "Syntax Highlighters"
@@ -1084,7 +1149,8 @@
             "owner": "RKDN",
             "repo": "x12Tool",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T19:26:36.160Z"
         }
       ],
       "title": "Standalone editors"
@@ -1104,15 +1170,16 @@
             "last_commit": "2026-08-10T06:38:22Z",
             "owner": "Tediware",
             "repo": "tedicli",
-            "stars": 3
-          }
+            "stars": 4
+          },
+          "first_seen": "2026-08-28T19:26:36.160Z"
         }
       ],
       "title": "AI created or used"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T18:17:27.506Z",
+    "last_updated": "2026-08-28T19:26:36.160Z",
     "original_repository_info": {
       "archived": false,
       "id": 113229846,
