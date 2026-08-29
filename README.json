@@ -12,12 +12,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An extensible Java framework for building event-driven applications that break up XML and non-XML data into chunks for data integration",
+                "homepage": "https://www.smooks.org",
                 "id": 1194243,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2025-11-24T19:27:32Z",
+                "open_issues": 35,
                 "owner": "smooks",
                 "repo": "smooks",
-                "stars": 417
+                "stars": 417,
+                "topics": [
+                  "analytics",
+                  "chunking",
+                  "enterprise-integration",
+                  "etl",
+                  "event-driven",
+                  "java",
+                  "pipelines",
+                  "sax",
+                  "smooks",
+                  "stream-processing",
+                  "xml"
+                ]
               },
               "first_seen": "2026-08-28T19:26:36.160Z"
             },
@@ -28,12 +45,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "StAEDI - Streaming API for EDI: Java library featuring a reader/parser, writer/generator, and validation",
+                "homepage": null,
                 "id": 94276393,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T10:07:59Z",
+                "open_issues": 7,
                 "owner": "xlate",
                 "repo": "staedi",
-                "stars": 151
+                "stars": 151,
+                "topics": [
+                  "edi",
+                  "edi-api",
+                  "edi-messages",
+                  "edi-reading",
+                  "edi-stream",
+                  "edifact",
+                  "generator",
+                  "parser",
+                  "tradacoms",
+                  "x12"
+                ]
               },
               "first_seen": "2026-08-28T19:26:36.160Z"
             },
@@ -44,12 +77,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Serializing EDI as JSON",
+                "homepage": "https://github.com/BerryWorksSoftware/edi-json",
                 "id": 114271257,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2025-11-07T22:49:55Z",
+                "open_issues": 14,
                 "owner": "BerryWorksSoftware",
                 "repo": "edi-json",
-                "stars": 110
+                "stars": 110,
+                "topics": [
+                  "837",
+                  "850",
+                  "ansi",
+                  "edi",
+                  "edifact",
+                  "edireader",
+                  "isa",
+                  "json",
+                  "unb",
+                  "x12"
+                ]
               },
               "first_seen": "2026-08-28T19:26:36.160Z"
             },
@@ -60,12 +109,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This library provides the functionality required to process EDI files and implement EDI integrations.",
+                "homepage": null,
                 "id": 626312690,
                 "language": "Ballerina",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-23T17:39:19Z",
+                "open_issues": 1,
                 "owner": "ballerina-platform",
                 "repo": "edi-tools",
-                "stars": 109
+                "stars": 109,
+                "topics": [
+                  "ballerina"
+                ]
               },
               "first_seen": "2026-08-28T19:26:36.160Z"
             },
@@ -76,12 +132,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Java parser for ANSI ASC X12 documents.",
+                "homepage": null,
                 "id": 89731217,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-17T13:24:33Z",
+                "open_issues": 8,
                 "owner": "imsweb",
                 "repo": "x12-parser",
-                "stars": 96
+                "stars": 96,
+                "topics": [
+                  "835",
+                  "837",
+                  "ansi",
+                  "asc",
+                  "parser",
+                  "x12"
+                ]
               },
               "first_seen": "2026-08-28T19:26:36.160Z"
             },
@@ -92,12 +160,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source library to parse various X12 file formats for retail/supply chain",
+                "homepage": null,
                 "id": 128812322,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2026-02-10T18:06:15Z",
+                "open_issues": 8,
                 "owner": "walmartlabs",
                 "repo": "gozer",
-                "stars": 76
+                "stars": 76,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:26:36.160Z"
             },
@@ -108,12 +181,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache NIFI processor that converts EDI ASC X12 and EDIFACT documents into XML",
+                "homepage": null,
                 "id": 68349643,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2024-05-27T16:56:09Z",
+                "open_issues": 5,
                 "owner": "mrcsparker",
                 "repo": "nifi-edireader-bundle",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "edifact",
+                  "nifi",
+                  "nifi-processors",
+                  "xml"
+                ]
               },
               "first_seen": "2026-08-28T19:26:36.160Z"
             },
@@ -124,12 +207,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mantle EDI Integrations",
+                "homepage": "http://www.moqui.org/mantle.html",
                 "id": 50265822,
                 "language": "Groovy",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-02T17:13:07Z",
+                "open_issues": 1,
                 "owner": "moqui",
                 "repo": "mantle-edi",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "edi",
+                  "edi-integrations",
+                  "edi-messages",
+                  "mantle",
+                  "moqui"
+                ]
               },
               "first_seen": "2026-08-28T19:26:36.160Z"
             },
@@ -140,12 +234,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Java library for parsing and creating ASC X12 EDI transactions",
+                "homepage": null,
                 "id": 108046041,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2017-12-22T22:30:55Z",
+                "open_issues": 0,
                 "owner": "apifocal",
                 "repo": "x12-parser",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:26:36.160Z"
             }
@@ -163,12 +262,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EDI Serializer/Deserializer. Supports EDIFact, X12 and TRADACOMS formats",
+                "homepage": null,
                 "id": 42048803,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2025-12-01T13:23:25Z",
+                "open_issues": 89,
                 "owner": "indice-co",
                 "repo": "EDI.Net",
-                "stars": 491
+                "stars": 491,
+                "topics": [
+                  "edi",
+                  "edifact",
+                  "serializer",
+                  "tradacoms",
+                  "x12"
+                ]
               },
               "first_seen": "2026-08-28T19:26:36.160Z"
             },
@@ -179,12 +289,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple .NET EDI X12 Reader, Writer and Validator.  EDI JSON Serialization and Deserialization. Written in C#",
+                "homepage": null,
                 "id": 106541217,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2023-11-02T21:23:21Z",
+                "open_issues": 10,
                 "owner": "olmelabs",
                 "repo": "EdiEngine",
-                "stars": 109
+                "stars": 109,
+                "topics": [
+                  "edi",
+                  "json",
+                  "x12processor",
+                  "xml"
+                ]
               },
               "first_seen": "2026-08-28T19:26:36.160Z"
             },
@@ -195,12 +315,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Source Hard-Fork of EdiFabric",
+                "homepage": "https://ediweave.net",
                 "id": 101438617,
                 "language": "C#",
+                "license": "LGPL-3.0",
                 "last_commit": "2024-08-07T22:07:20Z",
+                "open_issues": 5,
                 "owner": "EdiWeave",
                 "repo": "EdiWeave",
-                "stars": 65
+                "stars": 65,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:26:36.160Z"
             },
@@ -211,12 +336,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cut through the Crap, with Machete, a text parser, object mapper, and query engine.",
+                "homepage": null,
                 "id": 109411696,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2019-04-25T15:54:24Z",
+                "open_issues": 0,
                 "owner": "MassTransit",
                 "repo": "Machete",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "csharp",
+                  "dotnet",
+                  "dotnet-core2",
+                  "hl7",
+                  "hl7-parser",
+                  "x12"
+                ]
               },
               "first_seen": "2026-08-28T19:26:36.160Z"
             }
@@ -234,12 +371,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A python EDIFACT library.",
+                "homepage": null,
                 "id": 90796000,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-17T10:44:20Z",
+                "open_issues": 14,
                 "owner": "nerdocs",
                 "repo": "pydifact",
-                "stars": 190
+                "stars": 190,
+                "topics": [
+                  "edifact",
+                  "library",
+                  "python3"
+                ]
               },
               "first_seen": "2026-08-28T19:26:36.160Z"
             },
@@ -250,12 +396,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple EDI 835 file format parser.",
+                "homepage": null,
                 "id": 331755715,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-06-03T16:17:37Z",
+                "open_issues": 20,
                 "owner": "keiron-stoddart",
                 "repo": "edi-835-parser",
-                "stars": 112
+                "stars": 112,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:26:36.160Z"
             },
@@ -266,12 +417,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python Library for parsing ANSI ASC X12 files.",
+                "homepage": null,
                 "id": 135838404,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-13T15:01:23Z",
+                "open_issues": 8,
                 "owner": "albmarin",
                 "repo": "badX12",
-                "stars": 60
+                "stars": 60,
+                "topics": [
+                  "edi",
+                  "library",
+                  "parser",
+                  "python",
+                  "x12"
+                ]
               },
               "first_seen": "2026-08-28T19:26:36.160Z"
             },
@@ -282,12 +444,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EDI message generator in Python. Creates & validates messages according to specific formats",
+                "homepage": null,
                 "id": 80212203,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-16T14:57:13Z",
+                "open_issues": 1,
                 "owner": "glitchassassin",
                 "repo": "python-edi",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:26:36.160Z"
             },
@@ -298,12 +465,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "X12 Message Processing",
+                "homepage": "http://slott56.github.io/TigerShark/",
                 "id": 3776674,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-08-21T14:56:51Z",
+                "open_issues": 0,
                 "owner": "slott56",
                 "repo": "TigerShark",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "edi",
+                  "x12"
+                ]
               },
               "first_seen": "2026-08-28T19:26:36.160Z"
             },
@@ -314,12 +489,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Server/Client to AS2 messaging server for managing EDI partnerships and interpreting messages",
+                "homepage": null,
                 "id": 166081227,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2019-04-10T17:09:20Z",
+                "open_issues": 0,
                 "owner": "greasysock",
                 "repo": "CahasEDI-Core",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:26:36.160Z"
             }
@@ -337,12 +517,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert EDI Documents to XML",
+                "homepage": null,
                 "id": 94571786,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2017-06-16T19:04:05Z",
+                "open_issues": 1,
                 "owner": "kuyawa",
                 "repo": "EdiMapper",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:26:36.160Z"
             }
@@ -360,12 +545,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tools to process EDI messages in UN/EDIFACT format",
+                "homepage": null,
                 "id": 14014481,
                 "language": "PHP",
+                "license": "LGPL-3.0",
                 "last_commit": "2025-10-30T13:35:18Z",
+                "open_issues": 3,
                 "owner": "php-edifact",
                 "repo": "edifact",
-                "stars": 287
+                "stars": 287,
+                "topics": [
+                  "edi",
+                  "edifact",
+                  "un-edifact"
+                ]
               },
               "first_seen": "2026-08-28T19:26:36.160Z"
             },
@@ -376,12 +570,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Formatter for EDI messages",
+                "homepage": null,
                 "id": 67544217,
                 "language": "PHP",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-03-26T14:44:21Z",
+                "open_issues": 8,
                 "owner": "php-edifact",
                 "repo": "edifact-generator",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:26:36.160Z"
             },
@@ -392,12 +591,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Provides xml descriptions of EDIFACT Messages",
+                "homepage": null,
                 "id": 67875812,
                 "language": "PHP",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-02-18T09:21:46Z",
+                "open_issues": 2,
                 "owner": "php-edifact",
                 "repo": "edifact-mapping",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:26:36.160Z"
             }
@@ -415,12 +619,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JavaScript EDI Parser that uses datastreams",
+                "homepage": null,
                 "id": 180612739,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-06T19:47:46Z",
+                "open_issues": 9,
                 "owner": "tastypackets",
                 "repo": "x12-parser",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:26:36.160Z"
             },
@@ -431,12 +640,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ASC X12 parser, generator, query engine, and mapper; now with support for streams.",
+                "homepage": "https://aaronhuggins.github.io/node-x12/",
                 "id": 207387615,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-04-30T22:58:29Z",
+                "open_issues": 10,
                 "owner": "aaronhuggins",
                 "repo": "node-x12",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:26:36.160Z"
             },
@@ -447,12 +661,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Javascript stream parser for UN/EDIFACT documents.",
+                "homepage": "https://www.npmjs.com/package/edifact",
                 "id": 45476533,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2021-01-19T20:33:07Z",
+                "open_issues": 8,
                 "owner": "tdecaluwe",
                 "repo": "node-edifact",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "edi",
+                  "edifact"
+                ]
               },
               "first_seen": "2026-08-28T19:26:36.160Z"
             },
@@ -463,12 +685,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generates test patient data in HIPAA X12 format",
+                "homepage": "https://dlumpp.github.io/x12-patient-faker/",
                 "id": 121587850,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-08-21T01:55:31Z",
+                "open_issues": 0,
                 "owner": "dlumpp",
                 "repo": "x12-patient-faker",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:26:36.160Z"
             },
@@ -479,12 +706,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Parsing EDI IFTMIN and IFTSTA messages properly. Yes, EDI. You're welcome.",
+                "homepage": "https://parcellab.com/",
                 "id": 55673308,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-07-29T21:14:09Z",
+                "open_issues": 1,
                 "owner": "parcelLab-archive",
                 "repo": "edi-iftmin",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "edi",
+                  "edi-iftmin"
+                ]
               },
               "first_seen": "2026-08-28T19:26:36.160Z"
             },
@@ -495,12 +730,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extremely basic X12 835 file parser",
+                "homepage": null,
                 "id": 218848084,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-05-20T22:53:36Z",
+                "open_issues": 0,
                 "owner": "jinger89",
                 "repo": "era",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:26:36.160Z"
             }
@@ -518,12 +758,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ruby API for parsing and generating ASC X12 EDI transactions",
+                "homepage": null,
                 "id": 2854367,
                 "language": "Ruby",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-07-16T06:15:34Z",
+                "open_issues": 29,
                 "owner": "kputnam",
                 "repo": "stupidedi",
-                "stars": 292
+                "stars": 292,
+                "topics": [
+                  "edi",
+                  "grammar",
+                  "hc-837",
+                  "hn-277",
+                  "hp-835",
+                  "parser",
+                  "po-810",
+                  "ruby",
+                  "validation",
+                  "x12"
+                ]
               },
               "first_seen": "2026-08-28T19:26:36.160Z"
             },
@@ -534,12 +790,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🧨 EDI toolkit (WIP) ",
+                "homepage": null,
                 "id": 223997464,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2020-07-09T15:29:31Z",
+                "open_issues": 0,
                 "owner": "tcd",
                 "repo": "eddy",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "edi",
+                  "x12"
+                ]
               },
               "first_seen": "2026-08-28T19:26:36.160Z"
             },
@@ -550,12 +814,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Electronic Data Interexchange Open Transformer (transforms EDI-834 into CSV)",
+                "homepage": null,
                 "id": 65509196,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2023-10-03T04:32:24Z",
+                "open_issues": 1,
                 "owner": "ConsultingMD",
                 "repo": "ediot",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:26:36.160Z"
             },
@@ -566,12 +835,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "User interface for CahasEDI-Core built on rails",
+                "homepage": null,
                 "id": 173849929,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2019-04-10T16:23:48Z",
+                "open_issues": 0,
                 "owner": "greasysock",
                 "repo": "CahasEDI-Dashboard",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:26:36.160Z"
             }
@@ -589,12 +863,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An X12 EDI parsing crate.",
+                "homepage": null,
                 "id": 212919454,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2025-08-12T15:22:53Z",
+                "open_issues": 2,
                 "owner": "sezna",
                 "repo": "edi",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:26:36.160Z"
             }
@@ -612,12 +891,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "omniparser: a native Golang ETL streaming parser and transform library for CSV, JSON, XML, EDI, text, etc.",
+                "homepage": null,
                 "id": 288033984,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-02-21T17:27:14Z",
+                "open_issues": 0,
                 "owner": "jf-tech",
                 "repo": "omniparser",
-                "stars": 1087
+                "stars": 1087,
+                "topics": [
+                  "codeless",
+                  "csv",
+                  "delimited",
+                  "edi",
+                  "edifact",
+                  "etl",
+                  "fixed-length",
+                  "fixed-width",
+                  "golang",
+                  "javascript",
+                  "json",
+                  "parser",
+                  "schema",
+                  "schemas",
+                  "streaming",
+                  "transform",
+                  "txt",
+                  "x12",
+                  "xml"
+                ]
               },
               "first_seen": "2026-08-28T19:26:36.160Z"
             },
@@ -628,12 +932,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ASC X12 standards reader/writer",
+                "homepage": null,
                 "id": 613978039,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T15:24:52Z",
+                "open_issues": 4,
                 "owner": "moov-io",
                 "repo": "x12",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "837d",
+                  "837p",
+                  "asc",
+                  "edi",
+                  "x12"
+                ]
               },
               "first_seen": "2026-08-28T19:26:36.160Z"
             }
@@ -655,12 +970,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HIPAA X12 document parser, validator and converter",
+            "homepage": "https://pyx12.readthedocs.io/en/latest/",
             "id": 3490313,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-06T21:55:48Z",
+            "open_issues": 15,
             "owner": "azoner",
             "repo": "pyx12",
-            "stars": 188
+            "stars": 188,
+            "topics": [
+              "api",
+              "documentation",
+              "pyx12",
+              "rtd"
+            ]
           },
           "first_seen": "2026-08-28T19:26:36.160Z"
         },
@@ -671,12 +996,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Print and concatenate X12 and Edifact EDI",
+            "homepage": null,
             "id": 108437988,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-01-04T19:49:17Z",
+            "open_issues": 0,
             "owner": "notpeter",
             "repo": "edicat",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "edi",
+              "edifact",
+              "newline",
+              "x12"
+            ]
           },
           "first_seen": "2026-08-28T19:26:36.160Z"
         },
@@ -687,12 +1022,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A pretty-printer for X12 EDI files",
+            "homepage": null,
             "id": 181778601,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2021-06-21T16:58:13Z",
+            "open_issues": 0,
             "owner": "clarkema",
             "repo": "x12pp",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "edi",
+              "rust",
+              "x12"
+            ]
           },
           "first_seen": "2026-08-28T19:26:36.160Z"
         },
@@ -703,12 +1047,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PowerShell scripts for managing and parsing EDI files",
+            "homepage": null,
             "id": 88746023,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-02-16T21:24:19Z",
+            "open_issues": 2,
             "owner": "lanceengland",
             "repo": "EdiTools",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "edi",
+              "powershell",
+              "x12"
+            ]
           },
           "first_seen": "2026-08-28T19:26:36.160Z"
         }
@@ -725,12 +1078,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Odoo. Open Source Apps To Grow Your Business.",
+            "homepage": "https://www.odoo.com",
             "id": 19745004,
             "language": "Python",
-            "last_commit": "2026-08-28T19:26:02Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:04:58Z",
+            "open_issues": 10409,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 54013
+            "stars": 54018,
+            "topics": [
+              "apps",
+              "business",
+              "erp",
+              "management",
+              "odoo",
+              "odoo-apps",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T19:26:36.160Z"
         },
@@ -741,12 +1107,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The swiss army knife of healthcare integration.",
+            "homepage": null,
             "id": 136395597,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2024-09-23T16:32:01Z",
+            "open_issues": 410,
             "owner": "nextgenhealthcare",
             "repo": "connect",
-            "stars": 1191
+            "stars": 1191,
+            "topics": [
+              "healthcare",
+              "hl7",
+              "integration",
+              "interoperability",
+              "mirth",
+              "mirth-connect"
+            ]
           },
           "first_seen": "2026-08-28T19:26:36.160Z"
         },
@@ -757,12 +1135,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Free ERP and EDI solution for the manufacturing community",
+            "homepage": null,
             "id": 227373743,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-08-28T13:06:00Z",
+            "open_issues": 10,
             "owner": "blueseerERP",
             "repo": "blueseer",
-            "stars": 168
+            "stars": 168,
+            "topics": [
+              "accounting-software",
+              "business-solutions",
+              "edi",
+              "erp",
+              "erpsystem",
+              "java",
+              "manufacturing",
+              "opensource"
+            ]
           },
           "first_seen": "2026-08-28T19:26:36.160Z"
         },
@@ -773,12 +1165,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EDIReader is a flexible and lightweight EDI parser, written in pure Java with many integration options. It has handled millions of transactions in a wide variety of products, services, industries, platforms, and custom integrations. Available as the open source Community Edition and the Premium Edition with added-value modules.",
+            "homepage": null,
             "id": 34661048,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-21T17:07:25Z",
+            "open_issues": 13,
             "owner": "BerryWorksSoftware",
             "repo": "edireader",
-            "stars": 141
+            "stars": 141,
+            "topics": [
+              "270",
+              "271",
+              "834",
+              "835",
+              "837",
+              "edi",
+              "edifact",
+              "edireader",
+              "java",
+              "json",
+              "sax",
+              "x12",
+              "xml"
+            ]
           },
           "first_seen": "2026-08-28T19:26:36.160Z"
         },
@@ -789,12 +1200,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 69865547,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-18T14:35:34Z",
+            "open_issues": 63,
             "owner": "OCA",
             "repo": "edi",
-            "stars": 141
+            "stars": 141,
+            "topics": [
+              "erp",
+              "hacktoberfest",
+              "odoo",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T19:26:36.160Z"
         },
@@ -805,12 +1226,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EdiFabric C# .NET Examples for EDIFACT D96A, EANCOM D03B, EDIGAS 4.0, and IATA PNRGOV",
+            "homepage": "https://www.edifabric.com",
             "id": 30792567,
             "language": "C#",
+            "license": null,
             "last_commit": "2026-06-12T12:32:04Z",
+            "open_issues": 3,
             "owner": "EdiFabric",
             "repo": "EDIFACT.NET",
-            "stars": 110
+            "stars": 110,
+            "topics": [
+              "contrl",
+              "d03b",
+              "d96a",
+              "desadv",
+              "eancom",
+              "edi",
+              "edi-acknowledgments",
+              "edi-api",
+              "edi-files",
+              "edi-templates",
+              "edifabric",
+              "edifact",
+              "iata",
+              "invoic",
+              "orders",
+              "padis",
+              "pnrgov",
+              "translator",
+              "validator"
+            ]
           },
           "first_seen": "2026-08-28T19:26:36.160Z"
         },
@@ -821,12 +1267,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EdiFabric C# .NET Examples for X12 4010 and HIPAA 5010",
+            "homepage": "https://www.edifabric.com",
             "id": 108129123,
             "language": "C#",
+            "license": null,
             "last_commit": "2026-06-12T12:47:22Z",
+            "open_issues": 2,
             "owner": "EdiFabric",
             "repo": "X12.NET",
-            "stars": 83
+            "stars": 83,
+            "topics": [
+              "210",
+              "214",
+              "5010",
+              "810",
+              "834",
+              "835",
+              "837",
+              "850",
+              "856",
+              "997",
+              "999",
+              "edi",
+              "edi-acknowledgments",
+              "edi-api",
+              "edifabric",
+              "hipaa",
+              "x12"
+            ]
           },
           "first_seen": "2026-08-28T19:26:36.160Z"
         },
@@ -837,12 +1306,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repo is no longer maintained and has been moved to https://github.com/abhishek-ram/django-pyas2",
+            "homepage": null,
             "id": 31582012,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2020-07-24T12:43:54Z",
+            "open_issues": 8,
             "owner": "abhishek-ram",
             "repo": "pyas2",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "as2",
+              "edi",
+              "filetransfer",
+              "python",
+              "server"
+            ]
           },
           "first_seen": "2026-08-28T19:26:36.160Z"
         },
@@ -853,12 +1333,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Smooks EDI & EDIFACT cartridges for reading as well as writing EDI",
+            "homepage": "https://www.smooks.org",
             "id": 245531182,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2025-11-24T03:14:59Z",
+            "open_issues": 22,
             "owner": "smooks",
             "repo": "smooks-edi-cartridge",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "dfdl-schema",
+              "edi",
+              "edi-to-java",
+              "edi-to-xml",
+              "edifact",
+              "java-to-edi",
+              "smooks-cartridge",
+              "xml-to-edi"
+            ]
           },
           "first_seen": "2026-08-28T19:26:36.160Z"
         },
@@ -869,12 +1363,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple X12 data model with TSQL parsing procedures",
+            "homepage": null,
             "id": 152143537,
             "language": "PLpgSQL",
+            "license": "MIT",
             "last_commit": "2018-11-29T04:11:14Z",
+            "open_issues": 0,
             "owner": "Campbellony",
             "repo": "X12SqlServer",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:36.160Z"
         },
@@ -885,12 +1384,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 159189363,
             "language": "Java",
+            "license": null,
             "last_commit": "2018-12-13T13:33:14Z",
+            "open_issues": 0,
             "owner": "Javonet",
             "repo": "RDPCrystal",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:36.160Z"
         }
@@ -907,12 +1411,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generic ANSI X12 Transaction processing in PHP and SQL",
+            "homepage": null,
             "id": 8694892,
             "language": "PHP",
+            "license": null,
             "last_commit": "2023-03-04T10:02:58Z",
+            "open_issues": 0,
             "owner": "stephenmccready",
             "repo": "X12",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "ansi",
+              "hipaa",
+              "x12"
+            ]
           },
           "first_seen": "2026-08-28T19:26:36.160Z"
         },
@@ -923,12 +1436,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "X12 EDI Converter API and Java parser usage examples",
+            "homepage": "https://datainsight.health/products/edi-convert/",
             "id": 751639368,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-14T19:26:44Z",
+            "open_issues": 1,
             "owner": "Healthcare-Data-Insight",
             "repo": "api-examples",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:36.160Z"
         },
@@ -939,12 +1457,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PHP Library for creating EDI X12 ANSI 270 File 5010 Version",
+            "homepage": null,
             "id": 113414583,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2017-12-07T09:08:02Z",
+            "open_issues": 0,
             "owner": "walkswithme",
             "repo": "EDI-X12-ANSI-270",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "005010x279a1",
+              "ansi",
+              "ansi-270",
+              "edi",
+              "edi-x12-270-5010",
+              "php-edi-270",
+              "x12"
+            ]
           },
           "first_seen": "2026-08-28T19:26:36.160Z"
         },
@@ -955,12 +1486,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EdiFabric C# .NET Examples for VDA",
+            "homepage": "https://www.edifabric.com/",
             "id": 198398791,
             "language": "C#",
+            "license": null,
             "last_commit": "2026-06-12T12:43:58Z",
+            "open_issues": 0,
             "owner": "EdiFabric",
             "repo": "VDA.NET",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "csharp",
+              "dotnet",
+              "edi",
+              "translator",
+              "validator",
+              "vda"
+            ]
           },
           "first_seen": "2026-08-28T19:26:36.160Z"
         },
@@ -971,12 +1514,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A workflow for receiving and sending EDI documents that you can adjust to build your own EDI system.",
+            "homepage": null,
             "id": 584762574,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-09T22:21:03Z",
+            "open_issues": 20,
             "owner": "Stedi-Demos",
             "repo": "bootstrap-archived",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:36.160Z"
         },
@@ -987,12 +1535,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rough process for generating EDI X12 834 and 837 files from a CSV file. Structured in a way that allows easy transition to other data sources.",
+            "homepage": null,
             "id": 123940555,
             "language": "C#",
+            "license": null,
             "last_commit": "2018-03-05T15:43:16Z",
+            "open_issues": 0,
             "owner": "dipique",
             "repo": "EDI-X12",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:36.160Z"
         }
@@ -1009,12 +1562,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Visual Studio Code extension aimed at providing basic support for the EDI format.",
+            "homepage": null,
             "id": 89288406,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2019-09-21T01:17:36Z",
+            "open_issues": 5,
             "owner": "Silvenga",
             "repo": "vscode-edi-x12-support",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:36.160Z"
         },
@@ -1025,12 +1583,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Format, highlighting, hover supports for X12 and EDIFACT in vscode.",
+            "homepage": null,
             "id": 639838913,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-30T06:38:47Z",
+            "open_issues": 0,
             "owner": "hellooops",
             "repo": "vscode-edi-support",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:36.160Z"
         },
@@ -1041,12 +1604,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EDIFACT extension for Visual Studio Code",
+            "homepage": "https://marketplace.visualstudio.com/items/DAXaholic.vscode-edifact",
             "id": 68010987,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-03-19T08:09:58Z",
+            "open_issues": 4,
             "owner": "DAXaholic",
             "repo": "vscode-edifact",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "edifact",
+              "formatter",
+              "highlighting",
+              "vscode-extension"
+            ]
           },
           "first_seen": "2026-08-28T19:26:36.160Z"
         },
@@ -1057,12 +1630,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EDI Lens is a web-based developer tool designed to help view, parse, and understand the structure of X12 EDI Files",
+            "homepage": "https://edi-lens.kreddys.com/",
             "id": 956565597,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-30T03:51:31Z",
+            "open_issues": 0,
             "owner": "kreddys",
             "repo": "edi-lens",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:36.160Z"
         },
@@ -1073,12 +1651,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Highlighter for X12 EDI(electronic data interchange) files",
+            "homepage": "http://www.vim.org/scripts/script.php?script_id=1625",
             "id": 1001941,
             "language": "VimL",
+            "license": null,
             "last_commit": "2017-11-08T20:16:04Z",
+            "open_issues": 0,
             "owner": "vim-scripts",
             "repo": "x12-syntax",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:36.160Z"
         },
@@ -1089,12 +1672,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Emacs major mode for X12 EDI files",
+            "homepage": null,
             "id": 197984874,
             "language": "Emacs Lisp",
+            "license": null,
             "last_commit": "2019-07-20T22:15:21Z",
+            "open_issues": 0,
             "owner": "clarkema",
             "repo": "x12-mode",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:36.160Z"
         },
@@ -1105,12 +1693,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚑🏨📓Adds syntax highlighting to Sublime for x12 files. Made especially for the healthcare EDI space. (837s, etc.)",
+            "homepage": null,
             "id": 153133588,
             "language": null,
+            "license": null,
             "last_commit": "2018-09-05T19:15:39Z",
+            "open_issues": 0,
             "owner": "josesanchezcapo",
             "repo": "sublime-x12-highlighting",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:36.160Z"
         },
@@ -1121,12 +1714,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sublime syntax highlighter for the EDI X12 834 file",
+            "homepage": null,
             "id": 104938991,
             "language": null,
+            "license": "MIT",
             "last_commit": "2018-05-31T20:54:36Z",
+            "open_issues": 0,
             "owner": "michaelachrisco",
             "repo": "sublime-834-syntax",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "834",
+              "edi",
+              "healthcare",
+              "sublime",
+              "syntax-highlighting",
+              "x12"
+            ]
           },
           "first_seen": "2026-08-28T19:26:36.160Z"
         }
@@ -1143,12 +1748,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool for reading and modifying x12/EDI files.",
+            "homepage": "https://donorbox.org/donations-for-x12tool-development",
             "id": 146214429,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2018-08-28T13:27:21Z",
+            "open_issues": 1,
             "owner": "RKDN",
             "repo": "x12Tool",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:36.160Z"
         }
@@ -1165,12 +1775,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official command line interface (CLI) tool for Tediware",
+            "homepage": null,
             "id": 1284156523,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-10T06:38:22Z",
+            "open_issues": 2,
             "owner": "Tediware",
             "repo": "tedicli",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:36.160Z"
         }
@@ -1179,15 +1794,33 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:26:36.160Z",
+    "last_updated": "2026-08-29T04:52:03.969Z",
     "original_repository_info": {
       "archived": false,
+      "description": "List of EDI (Mostly) Github Resources",
+      "homepage": "https://michaelachrisco.github.io/Electronic-Interchange-Github-Resources/",
       "id": 113229846,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-08-13T18:56:54Z",
+      "open_issues": 2,
       "owner": "michaelachrisco",
       "repo": "Electronic-Interchange-Github-Resources",
-      "stars": 351
+      "stars": 351,
+      "topics": [
+        "5010",
+        "awesome-list",
+        "biztalk",
+        "edi",
+        "edi-api",
+        "edifact",
+        "integrations",
+        "mantle-edi",
+        "mulesoft",
+        "sublime",
+        "syntax-highlighting",
+        "x12"
+      ]
     },
     "original_repository_sha": "31f5e48effe0838d9123fdb0c2609c553fba59b9",
     "enhanced_repository": "enhansome/enhansome-Electronic-Interchange-Github-Resources",
