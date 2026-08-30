@@ -21,7 +21,7 @@
                 "open_issues": 35,
                 "owner": "smooks",
                 "repo": "smooks",
-                "stars": 417,
+                "stars": 418,
                 "topics": [
                   "analytics",
                   "chunking",
@@ -900,7 +900,7 @@
                 "open_issues": 0,
                 "owner": "jf-tech",
                 "repo": "omniparser",
-                "stars": 1087,
+                "stars": 1088,
                 "topics": [
                   "codeless",
                   "csv",
@@ -1083,11 +1083,11 @@
             "id": 19745004,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T13:08:23Z",
-            "open_issues": 10405,
+            "last_commit": "2026-08-30T12:37:22Z",
+            "open_issues": 10384,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 54025,
+            "stars": 54041,
             "topics": [
               "apps",
               "business",
@@ -1116,7 +1116,7 @@
             "open_issues": 410,
             "owner": "nextgenhealthcare",
             "repo": "connect",
-            "stars": 1191,
+            "stars": 1192,
             "topics": [
               "healthcare",
               "hl7",
@@ -1794,7 +1794,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T13:10:17.762Z",
+    "last_updated": "2026-08-30T12:54:23.387Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of EDI (Mostly) Github Resources",
