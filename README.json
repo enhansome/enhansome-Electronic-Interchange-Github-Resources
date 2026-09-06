@@ -114,7 +114,7 @@
                 "id": 626312690,
                 "language": "Ballerina",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-23T17:39:19Z",
+                "last_commit": "2026-09-06T10:48:33Z",
                 "open_issues": 1,
                 "owner": "ballerina-platform",
                 "repo": "edi-tools",
@@ -380,7 +380,7 @@
                 "open_issues": 12,
                 "owner": "nerdocs",
                 "repo": "pydifact",
-                "stars": 190,
+                "stars": 191,
                 "topics": [
                   "edifact",
                   "library",
@@ -1083,11 +1083,11 @@
             "id": 19745004,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-05T10:55:35Z",
-            "open_issues": 10357,
+            "last_commit": "2026-09-06T06:48:36Z",
+            "open_issues": 10345,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 54173,
+            "stars": 54185,
             "topics": [
               "apps",
               "business",
@@ -1116,7 +1116,7 @@
             "open_issues": 410,
             "owner": "nextgenhealthcare",
             "repo": "connect",
-            "stars": 1193,
+            "stars": 1194,
             "topics": [
               "healthcare",
               "hl7",
@@ -1165,12 +1165,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "EDIReader is a flexible and lightweight EDI parser, written in pure Java with many integration options. It has handled millions of transactions in a wide variety of products, services, industries, platforms, and custom integrations. Available as the open source Community Edition and the Premium Edition with added-value modules.",
-            "homepage": null,
+            "description": "EDIReader is a flexible and lightweight EDI parser, written in pure Java with many integration options. It has handled millions of transactions in a wide variety of products, services, industries, platforms, and custom integrations. Used in BerryWave EDI API and BerryWave Python EDI SDK.",
+            "homepage": "http://berryworkssoftware.github.io/edireader/",
             "id": 34661048,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-04T15:16:37Z",
+            "last_commit": "2026-09-06T03:24:07Z",
             "open_issues": 13,
             "owner": "BerryWorksSoftware",
             "repo": "edireader",
@@ -1794,7 +1794,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T11:16:07.547Z",
+    "last_updated": "2026-09-06T11:39:15.805Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of EDI (Mostly) Github Resources",
