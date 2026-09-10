@@ -271,7 +271,7 @@
                 "open_issues": 89,
                 "owner": "indice-co",
                 "repo": "EDI.Net",
-                "stars": 491,
+                "stars": 490,
                 "topics": [
                   "edi",
                   "edifact",
@@ -937,7 +937,7 @@
                 "id": 613978039,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T18:27:27Z",
+                "last_commit": "2026-09-10T00:58:41Z",
                 "open_issues": 4,
                 "owner": "moov-io",
                 "repo": "x12",
@@ -1083,11 +1083,11 @@
             "id": 19745004,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T12:12:30Z",
-            "open_issues": 10279,
+            "last_commit": "2026-09-10T12:07:08Z",
+            "open_issues": 10311,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 54240,
+            "stars": 54266,
             "topics": [
               "apps",
               "business",
@@ -1116,7 +1116,7 @@
             "open_issues": 410,
             "owner": "nextgenhealthcare",
             "repo": "connect",
-            "stars": 1194,
+            "stars": 1197,
             "topics": [
               "healthcare",
               "hl7",
@@ -1205,8 +1205,8 @@
             "id": 69865547,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-09T12:19:01Z",
-            "open_issues": 61,
+            "last_commit": "2026-09-10T11:55:14Z",
+            "open_issues": 63,
             "owner": "OCA",
             "repo": "edi",
             "stars": 141,
@@ -1794,7 +1794,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T12:20:28.127Z",
+    "last_updated": "2026-09-10T12:13:51.134Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of EDI (Mostly) Github Resources",
