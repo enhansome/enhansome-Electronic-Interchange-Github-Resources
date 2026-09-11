@@ -11,7 +11,7 @@ List of EDI Github Resources. Pull Requests are Welcome!
 * [smooks/smooks](https://github.com/smooks/smooks) ⭐ 419 | 🐛 35 | 🌐 Java | 📅 2025-11-24 - An extensible Java framework for building XML and non-XML (CSV, EDI, Java, etc...) streaming applications
 * [xlate/staedi](https://github.com/xlate/staedi) ⭐ 150 | 🐛 7 | 🌐 Java | 📅 2026-09-04 - General X12/EDIFACT stream reader and writer with support for validation of standards with optional schema customizations (i.e. implementation guides)
 * [BerryWorksSoftware/edi-json](https://github.com/BerryWorksSoftware/edi-json) ⭐ 110 | 🐛 14 | 🌐 Java | 📅 2025-11-07 - Serializing EDI as JSON
-* [ballerina-platform/edi-tools](https://github.com/ballerina-platform/edi-tools) ⭐ 109 | 🐛 1 | 🌐 Ballerina | 📅 2026-09-06 - This library provides the functionality required to process EDI files and implement EDI integrations.
+* [ballerina-platform/edi-tools](https://github.com/ballerina-platform/edi-tools) ⭐ 109 | 🐛 3 | 🌐 Ballerina | 📅 2026-09-11 - This library provides the functionality required to process EDI files and implement EDI integrations.
 * [imsweb/x12-parser](https://github.com/imsweb/x12-parser) ⭐ 96 | 🐛 8 | 🌐 Java | 📅 2026-06-17 - A Java parser for ANSI ASC X12 documents.
 * [walmartlabs/gozer](https://github.com/walmartlabs/gozer) ⭐ 76 | 🐛 8 | 🌐 Java | 📅 2026-02-10 - The EDI X12 Standard provides a uniform way for companies to exchange information across different sectors.
 * [mrcsparker/nifi-edireader-bundle](https://github.com/mrcsparker/nifi-edireader-bundle) ⭐ 37 | 🐛 5 | 🌐 Java | 📅 2024-05-27 - Apache NIFI processor that converts EDI ASC X12 and EDIFACT documents into XML
@@ -81,11 +81,11 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ## Systems or Paid Services
 
-* [Odoo](https://github.com/odoo/odoo) ⭐ 54,266 | 🐛 10,311 | 🌐 Python | 📅 2026-09-10 - Odoo. Open Source Apps To Grow Your Business.
-* [nextgenhealthcare](https://github.com/nextgenhealthcare/connect) ⭐ 1,197 | 🐛 410 | 🌐 Java | 📅 2024-09-23 - The swiss army knife of healthcare integration.
-* [blueseerERP/blueseer](https://github.com/blueseerERP/blueseer) ⭐ 168 | 🐛 10 | 🌐 Java | 📅 2026-09-02 - A Free ERP and EDI solution for the manufacturing community.
+* [Odoo](https://github.com/odoo/odoo) ⭐ 54,292 | 🐛 10,268 | 🌐 Python | 📅 2026-09-11 - Odoo. Open Source Apps To Grow Your Business.
+* [nextgenhealthcare](https://github.com/nextgenhealthcare/connect) ⭐ 1,198 | 🐛 411 | 🌐 Java | 📅 2024-09-23 - The swiss army knife of healthcare integration.
+* [blueseerERP/blueseer](https://github.com/blueseerERP/blueseer) ⭐ 168 | 🐛 10 | 🌐 Java | 📅 2026-09-10 - A Free ERP and EDI solution for the manufacturing community.
 * [BerryWorksSoftware/edireader](https://github.com/BerryWorksSoftware/edireader) ⭐ 141 | 🐛 13 | 🌐 Java | 📅 2026-09-08 - EDIReader is a Java package for parsing business documents structured according to EDI standards. It supports the SAX and JAXP interfaces defined for XML, making it suitable for use in any XML-based system that allows the configuration of a custom SAX parser.
-* [OCA/edi](https://github.com/OCA/edi) ⭐ 141 | 🐛 63 | 🌐 Python | 📅 2026-09-10 - EDI Modules for Ooda
+* [OCA/edi](https://github.com/OCA/edi) ⭐ 141 | 🐛 64 | 🌐 Python | 📅 2026-09-10 - EDI Modules for Ooda
 * [EdiFabric/EDIFACT-Examples](https://github.com/EdiFabric/EDIFACT-Examples) ⭐ 110 | 🐛 3 | 🌐 C# | 📅 2026-06-12 -  EDIFACT and EANCOM Examples for EdiFabric EDI Tools
 * [EdiFabric/X12-Examples](https://github.com/EdiFabric/X12-Examples) ⭐ 83 | 🐛 2 | 🌐 C# | 📅 2026-06-12 - X12 and HIPAA Examples for EdiFabric EDI Tools
 * [abhishek-ram/pyas2](https://github.com/abhishek-ram/pyas2) ⭐ 47 | 🐛 8 | 🌐 Python | 📅 2020-07-24 - A pythonic AS2 client and server
@@ -140,4 +140,4 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
