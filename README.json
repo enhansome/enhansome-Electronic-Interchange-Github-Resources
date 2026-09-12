@@ -976,7 +976,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-05-06T21:55:48Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "azoner",
             "repo": "pyx12",
             "stars": 188,
@@ -1083,11 +1083,11 @@
             "id": 19745004,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T11:45:40Z",
-            "open_issues": 10268,
+            "last_commit": "2026-09-12T11:08:19Z",
+            "open_issues": 10258,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 54292,
+            "stars": 54306,
             "topics": [
               "apps",
               "business",
@@ -1140,7 +1140,7 @@
             "id": 227373743,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-09-10T21:18:26Z",
+            "last_commit": "2026-09-11T13:15:09Z",
             "open_issues": 10,
             "owner": "blueseerERP",
             "repo": "blueseer",
@@ -1794,7 +1794,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T12:12:29.089Z",
+    "last_updated": "2026-09-12T11:36:42.979Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of EDI (Mostly) Github Resources",

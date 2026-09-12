@@ -74,16 +74,16 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ## CLI utilities
 
-* [azoner/pyx12](https://github.com/azoner/pyx12) ⭐ 188 | 🐛 15 | 🌐 Python | 📅 2026-05-06 - (Python) HIPAA X12 document validator and converter
+* [azoner/pyx12](https://github.com/azoner/pyx12) ⭐ 188 | 🐛 16 | 🌐 Python | 📅 2026-05-06 - (Python) HIPAA X12 document validator and converter
 * [notpeter/edicat](https://github.com/notpeter/edicat) ⭐ 19 | 🐛 0 | 🌐 Rust | 📅 2026-01-04 - Print and concatenate X12 and Edifact EDI
 * [clarkema/x12pp](https://github.com/clarkema/x12pp) ⭐ 11 | 🐛 0 | 🌐 Rust | 📅 2021-06-21 - Fast cross-platform X12 pretty-printer in Rust
 * [lanceengland/EdiTools](https://github.com/lanceengland/EdiTools) ⭐ 9 | 🐛 2 | 🌐 C# | 📅 2026-02-16 - EdiTools is a repository of PowerShell scripts for parsing EDI X12 files.
 
 ## Systems or Paid Services
 
-* [Odoo](https://github.com/odoo/odoo) ⭐ 54,292 | 🐛 10,268 | 🌐 Python | 📅 2026-09-11 - Odoo. Open Source Apps To Grow Your Business.
+* [Odoo](https://github.com/odoo/odoo) ⭐ 54,306 | 🐛 10,258 | 🌐 Python | 📅 2026-09-12 - Odoo. Open Source Apps To Grow Your Business.
 * [nextgenhealthcare](https://github.com/nextgenhealthcare/connect) ⭐ 1,198 | 🐛 411 | 🌐 Java | 📅 2024-09-23 - The swiss army knife of healthcare integration.
-* [blueseerERP/blueseer](https://github.com/blueseerERP/blueseer) ⭐ 168 | 🐛 10 | 🌐 Java | 📅 2026-09-10 - A Free ERP and EDI solution for the manufacturing community.
+* [blueseerERP/blueseer](https://github.com/blueseerERP/blueseer) ⭐ 168 | 🐛 10 | 🌐 Java | 📅 2026-09-11 - A Free ERP and EDI solution for the manufacturing community.
 * [BerryWorksSoftware/edireader](https://github.com/BerryWorksSoftware/edireader) ⭐ 141 | 🐛 13 | 🌐 Java | 📅 2026-09-08 - EDIReader is a Java package for parsing business documents structured according to EDI standards. It supports the SAX and JAXP interfaces defined for XML, making it suitable for use in any XML-based system that allows the configuration of a custom SAX parser.
 * [OCA/edi](https://github.com/OCA/edi) ⭐ 141 | 🐛 64 | 🌐 Python | 📅 2026-09-10 - EDI Modules for Ooda
 * [EdiFabric/EDIFACT-Examples](https://github.com/EdiFabric/EDIFACT-Examples) ⭐ 110 | 🐛 3 | 🌐 C# | 📅 2026-06-12 -  EDIFACT and EANCOM Examples for EdiFabric EDI Tools
@@ -140,4 +140,4 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
