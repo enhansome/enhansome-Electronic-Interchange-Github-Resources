@@ -1086,11 +1086,11 @@
             "id": 19745004,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-17T12:35:33Z",
-            "open_issues": 10379,
+            "last_commit": "2026-09-18T12:12:50Z",
+            "open_issues": 10422,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 54415,
+            "stars": 54438,
             "topics": [
               "apps",
               "business",
@@ -1115,7 +1115,7 @@
             "id": 136395597,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2024-09-23T16:32:01Z",
+            "last_commit": "2026-09-17T13:53:42Z",
             "open_issues": 411,
             "owner": "nextgenhealthcare",
             "repo": "connect",
@@ -1144,7 +1144,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-09-15T13:56:23Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "blueseerERP",
             "repo": "blueseer",
             "stars": 168,
@@ -1797,7 +1797,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T12:35:59.126Z",
+    "last_updated": "2026-09-18T12:14:08.744Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of EDI (Mostly) Github Resources",
