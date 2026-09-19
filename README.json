@@ -380,7 +380,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-14T20:41:51Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "nerdocs",
                 "repo": "pydifact",
                 "stars": 191,
@@ -940,7 +940,7 @@
                 "id": 613978039,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T00:58:41Z",
+                "last_commit": "2026-09-19T01:01:32Z",
                 "open_issues": 4,
                 "owner": "moov-io",
                 "repo": "x12",
@@ -1086,11 +1086,11 @@
             "id": 19745004,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-18T12:12:50Z",
-            "open_issues": 10422,
+            "last_commit": "2026-09-19T11:19:37Z",
+            "open_issues": 10471,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 54438,
+            "stars": 54452,
             "topics": [
               "apps",
               "business",
@@ -1143,8 +1143,8 @@
             "id": 227373743,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-09-15T13:56:23Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-19T02:01:26Z",
+            "open_issues": 5,
             "owner": "blueseerERP",
             "repo": "blueseer",
             "stars": 168,
@@ -1157,6 +1157,32 @@
               "java",
               "manufacturing",
               "opensource"
+            ]
+          },
+          "first_seen": "2026-08-28T19:26:36.160Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OCA/edi",
+          "description": "EDI Modules for Ooda",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 69865547,
+            "language": "Python",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-09-16T22:24:52Z",
+            "open_issues": 66,
+            "owner": "OCA",
+            "repo": "edi",
+            "stars": 142,
+            "topics": [
+              "erp",
+              "hacktoberfest",
+              "odoo",
+              "python"
             ]
           },
           "first_seen": "2026-08-28T19:26:36.160Z"
@@ -1192,32 +1218,6 @@
               "sax",
               "x12",
               "xml"
-            ]
-          },
-          "first_seen": "2026-08-28T19:26:36.160Z"
-        },
-        {
-          "node_type": "item",
-          "title": "OCA/edi",
-          "description": "EDI Modules for Ooda",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 69865547,
-            "language": "Python",
-            "license": "AGPL-3.0",
-            "last_commit": "2026-09-16T22:24:52Z",
-            "open_issues": 66,
-            "owner": "OCA",
-            "repo": "edi",
-            "stars": 141,
-            "topics": [
-              "erp",
-              "hacktoberfest",
-              "odoo",
-              "python"
             ]
           },
           "first_seen": "2026-08-28T19:26:36.160Z"
@@ -1444,7 +1444,7 @@
             "id": 751639368,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-08-14T19:26:44Z",
+            "last_commit": "2026-09-18T18:41:43Z",
             "open_issues": 1,
             "owner": "Healthcare-Data-Insight",
             "repo": "api-examples",
@@ -1797,7 +1797,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T12:14:08.744Z",
+    "last_updated": "2026-09-19T11:55:51.651Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of EDI (Mostly) Github Resources",
