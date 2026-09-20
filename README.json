@@ -21,7 +21,7 @@
                 "open_issues": 35,
                 "owner": "smooks",
                 "repo": "smooks",
-                "stars": 419,
+                "stars": 420,
                 "topics": [
                   "analytics",
                   "chunking",
@@ -144,7 +144,7 @@
                 "open_issues": 8,
                 "owner": "imsweb",
                 "repo": "x12-parser",
-                "stars": 97,
+                "stars": 98,
                 "topics": [
                   "835",
                   "837",
@@ -982,7 +982,7 @@
             "open_issues": 16,
             "owner": "azoner",
             "repo": "pyx12",
-            "stars": 188,
+            "stars": 189,
             "topics": [
               "api",
               "documentation",
@@ -1086,11 +1086,11 @@
             "id": 19745004,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-19T11:19:37Z",
-            "open_issues": 10471,
+            "last_commit": "2026-09-20T11:01:12Z",
+            "open_issues": 10485,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 54452,
+            "stars": 54466,
             "topics": [
               "apps",
               "business",
@@ -1119,7 +1119,7 @@
             "open_issues": 411,
             "owner": "nextgenhealthcare",
             "repo": "connect",
-            "stars": 1200,
+            "stars": 1201,
             "topics": [
               "healthcare",
               "hl7",
@@ -1797,7 +1797,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T11:55:51.651Z",
+    "last_updated": "2026-09-20T12:22:44.138Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of EDI (Mostly) Github Resources",

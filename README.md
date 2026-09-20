@@ -8,11 +8,11 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ### Java
 
-* [smooks/smooks](https://github.com/smooks/smooks) ⭐ 419 | 🐛 35 | 🌐 Java | 📅 2025-11-24 - An extensible Java framework for building XML and non-XML (CSV, EDI, Java, etc...) streaming applications
+* [smooks/smooks](https://github.com/smooks/smooks) ⭐ 420 | 🐛 35 | 🌐 Java | 📅 2025-11-24 - An extensible Java framework for building XML and non-XML (CSV, EDI, Java, etc...) streaming applications
 * [xlate/staedi](https://github.com/xlate/staedi) ⭐ 150 | 🐛 7 | 🌐 Java | 📅 2026-09-14 - General X12/EDIFACT stream reader and writer with support for validation of standards with optional schema customizations (i.e. implementation guides)
 * [BerryWorksSoftware/edi-json](https://github.com/BerryWorksSoftware/edi-json) ⭐ 110 | 🐛 14 | 🌐 Java | 📅 2026-09-16 - Serializing EDI as JSON
 * [ballerina-platform/edi-tools](https://github.com/ballerina-platform/edi-tools) ⭐ 108 | 🐛 1 | 🌐 Ballerina | 📅 2026-09-15 - This library provides the functionality required to process EDI files and implement EDI integrations.
-* [imsweb/x12-parser](https://github.com/imsweb/x12-parser) ⭐ 97 | 🐛 8 | 🌐 Java | 📅 2026-06-17 - A Java parser for ANSI ASC X12 documents.
+* [imsweb/x12-parser](https://github.com/imsweb/x12-parser) ⭐ 98 | 🐛 8 | 🌐 Java | 📅 2026-06-17 - A Java parser for ANSI ASC X12 documents.
 * [walmartlabs/gozer](https://github.com/walmartlabs/gozer) ⭐ 76 | 🐛 5 | 🌐 Java | 📅 2026-09-15 - The EDI X12 Standard provides a uniform way for companies to exchange information across different sectors.
 * [mrcsparker/nifi-edireader-bundle](https://github.com/mrcsparker/nifi-edireader-bundle) ⭐ 37 | 🐛 5 | 🌐 Java | 📅 2024-05-27 - Apache NIFI processor that converts EDI ASC X12 and EDIFACT documents into XML
 * [moqui/mantle-edi](https://github.com/moqui/mantle-edi) ⭐ 13 | 🐛 1 | 🌐 Groovy | 📅 2026-03-02 - Mantle EDI Integrations
@@ -74,15 +74,15 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ## CLI utilities
 
-* [azoner/pyx12](https://github.com/azoner/pyx12) ⭐ 188 | 🐛 16 | 🌐 Python | 📅 2026-05-06 - (Python) HIPAA X12 document validator and converter
+* [azoner/pyx12](https://github.com/azoner/pyx12) ⭐ 189 | 🐛 16 | 🌐 Python | 📅 2026-05-06 - (Python) HIPAA X12 document validator and converter
 * [notpeter/edicat](https://github.com/notpeter/edicat) ⭐ 19 | 🐛 0 | 🌐 Rust | 📅 2026-01-04 - Print and concatenate X12 and Edifact EDI
 * [clarkema/x12pp](https://github.com/clarkema/x12pp) ⭐ 11 | 🐛 0 | 🌐 Rust | 📅 2021-06-21 - Fast cross-platform X12 pretty-printer in Rust
 * [lanceengland/EdiTools](https://github.com/lanceengland/EdiTools) ⭐ 9 | 🐛 2 | 🌐 C# | 📅 2026-02-16 - EdiTools is a repository of PowerShell scripts for parsing EDI X12 files.
 
 ## Systems or Paid Services
 
-* [Odoo](https://github.com/odoo/odoo) ⭐ 54,452 | 🐛 10,471 | 🌐 Python | 📅 2026-09-19 - Odoo. Open Source Apps To Grow Your Business.
-* [nextgenhealthcare](https://github.com/nextgenhealthcare/connect) ⭐ 1,200 | 🐛 411 | 🌐 Java | 📅 2026-09-17 - The swiss army knife of healthcare integration.
+* [Odoo](https://github.com/odoo/odoo) ⭐ 54,466 | 🐛 10,485 | 🌐 Python | 📅 2026-09-20 - Odoo. Open Source Apps To Grow Your Business.
+* [nextgenhealthcare](https://github.com/nextgenhealthcare/connect) ⭐ 1,201 | 🐛 411 | 🌐 Java | 📅 2026-09-17 - The swiss army knife of healthcare integration.
 * [blueseerERP/blueseer](https://github.com/blueseerERP/blueseer) ⭐ 168 | 🐛 5 | 🌐 Java | 📅 2026-09-19 - A Free ERP and EDI solution for the manufacturing community.
 * [OCA/edi](https://github.com/OCA/edi) ⭐ 142 | 🐛 66 | 🌐 Python | 📅 2026-09-16 - EDI Modules for Ooda
 * [BerryWorksSoftware/edireader](https://github.com/BerryWorksSoftware/edireader) ⭐ 141 | 🐛 13 | 🌐 Java | 📅 2026-09-16 - EDIReader is a Java package for parsing business documents structured according to EDI standards. It supports the SAX and JAXP interfaces defined for XML, making it suitable for use in any XML-based system that allows the configuration of a custom SAX parser.
@@ -140,4 +140,4 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
