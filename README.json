@@ -21,7 +21,7 @@
                 "open_issues": 35,
                 "owner": "smooks",
                 "repo": "smooks",
-                "stars": 420,
+                "stars": 421,
                 "topics": [
                   "analytics",
                   "chunking",
@@ -50,7 +50,7 @@
                 "id": 94276393,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T13:15:57Z",
+                "last_commit": "2026-09-22T11:54:06Z",
                 "open_issues": 7,
                 "owner": "xlate",
                 "repo": "staedi",
@@ -1086,11 +1086,11 @@
             "id": 19745004,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T14:08:45Z",
-            "open_issues": 10453,
+            "last_commit": "2026-09-22T12:35:28Z",
+            "open_issues": 10443,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 54494,
+            "stars": 54513,
             "topics": [
               "apps",
               "business",
@@ -1119,7 +1119,7 @@
             "open_issues": 411,
             "owner": "nextgenhealthcare",
             "repo": "connect",
-            "stars": 1202,
+            "stars": 1203,
             "topics": [
               "healthcare",
               "hl7",
@@ -1444,7 +1444,7 @@
             "id": 751639368,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-18T18:41:43Z",
+            "last_commit": "2026-09-21T18:55:55Z",
             "open_issues": 1,
             "owner": "Healthcare-Data-Insight",
             "repo": "api-examples",
@@ -1592,7 +1592,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-06-30T06:38:47Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "hellooops",
             "repo": "vscode-edi-support",
             "stars": 31,
@@ -1797,7 +1797,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T14:09:32.477Z",
+    "last_updated": "2026-09-22T12:37:27.380Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of EDI (Mostly) Github Resources",
