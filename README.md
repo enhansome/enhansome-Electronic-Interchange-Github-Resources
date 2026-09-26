@@ -70,7 +70,7 @@ List of EDI Github Resources. Pull Requests are Welcome!
   formats (CSV, txt, fixed length/width, XML, EDI/X12/EDIFACT, JSON, and custom formats) in streaming fashion and transforms data into desired
   JSON output based on a schema written in JSON. See [EDI](https://github.com/jf-tech/omniparser/blob/master/doc/edi_in_depth.md) ⭐ 1,088 | 🐛 0 | 🌐 Go | 📅 2025-02-21 and
   [EDI readers](https://github.com/jf-tech/omniparser/blob/master/doc/programmability.md#full-edi-reader) ⭐ 1,088 | 🐛 0 | 🌐 Go | 📅 2025-02-21 for more usage details.
-* [moov-io/x12](https://github.com/moov-io/x12) ⭐ 21 | 🐛 5 | 🌐 Go | 📅 2026-09-25 - ASC X12 standards reader/writer
+* [moov-io/x12](https://github.com/moov-io/x12) ⭐ 21 | 🐛 4 | 🌐 Go | 📅 2026-09-25 - ASC X12 standards reader/writer
 
 ## CLI utilities
 
@@ -81,9 +81,9 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ## Systems or Paid Services
 
-* [Odoo](https://github.com/odoo/odoo) ⭐ 54,593 | 🐛 10,526 | 🌐 Python | 📅 2026-09-25 - Odoo. Open Source Apps To Grow Your Business.
+* [Odoo](https://github.com/odoo/odoo) ⭐ 54,686 | 🐛 10,532 | 🌐 Python | 📅 2026-09-26 - Odoo. Open Source Apps To Grow Your Business.
 * [nextgenhealthcare](https://github.com/nextgenhealthcare/connect) ⭐ 1,204 | 🐛 411 | 🌐 Java | 📅 2026-09-17 - The swiss army knife of healthcare integration.
-* [blueseerERP/blueseer](https://github.com/blueseerERP/blueseer) ⭐ 171 | 🐛 6 | 🌐 Java | 📅 2026-09-23 - A Free ERP and EDI solution for the manufacturing community.
+* [blueseerERP/blueseer](https://github.com/blueseerERP/blueseer) ⭐ 171 | 🐛 7 | 🌐 Java | 📅 2026-09-25 - A Free ERP and EDI solution for the manufacturing community.
 * [OCA/edi](https://github.com/OCA/edi) ⭐ 142 | 🐛 66 | 🌐 Python | 📅 2026-09-16 - EDI Modules for Ooda
 * [BerryWorksSoftware/edireader](https://github.com/BerryWorksSoftware/edireader) ⭐ 141 | 🐛 13 | 🌐 Java | 📅 2026-09-16 - EDIReader is a Java package for parsing business documents structured according to EDI standards. It supports the SAX and JAXP interfaces defined for XML, making it suitable for use in any XML-based system that allows the configuration of a custom SAX parser.
 * [EdiFabric/EDIFACT-Examples](https://github.com/EdiFabric/EDIFACT-Examples) ⭐ 110 | 🐛 3 | 🌐 C# | 📅 2026-09-24 -  EDIFACT and EANCOM Examples for EdiFabric EDI Tools
@@ -112,7 +112,7 @@ List of EDI Github Resources. Pull Requests are Welcome!
 * [X12 Reference](https://www.stedi.com/edi/x12) - Free online viewer for all releases of X12 specifications.
 * [EDI Guide Catalog](https://www.stedi.com/edi/catalog) - An open directory of the most-requested Stedi Guides, interactive EDI specifications that let you instantly validate EDI documents.
 * [EDIFACT Reference](https://www.stedi.com/edi/edifact) - Free online viewer for all releases of EDIFACT specifications.
-* [Stedi/awesome-edi](https://github.com/Stedi/awesome-edi) ⭐ 145 | 🐛 5 | 📅 2026-04-14 - List by Stedi of related resources.
+* [Stedi/awesome-edi](https://github.com/Stedi/awesome-edi) ⭐ 145 | 🐛 6 | 📅 2026-04-14 - List by Stedi of related resources.
 
 ## Syntax Highlighters
 
@@ -140,4 +140,4 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
