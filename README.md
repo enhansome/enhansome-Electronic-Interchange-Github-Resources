@@ -9,7 +9,7 @@ List of EDI Github Resources. Pull Requests are Welcome!
 ### Java
 
 * [smooks/smooks](https://github.com/smooks/smooks) ⭐ 421 | 🐛 35 | 🌐 Java | 📅 2025-11-24 - An extensible Java framework for building XML and non-XML (CSV, EDI, Java, etc...) streaming applications
-* [xlate/staedi](https://github.com/xlate/staedi) ⭐ 150 | 🐛 7 | 🌐 Java | 📅 2026-09-25 - General X12/EDIFACT stream reader and writer with support for validation of standards with optional schema customizations (i.e. implementation guides)
+* [xlate/staedi](https://github.com/xlate/staedi) ⭐ 150 | 🐛 8 | 🌐 Java | 📅 2026-09-25 - General X12/EDIFACT stream reader and writer with support for validation of standards with optional schema customizations (i.e. implementation guides)
 * [BerryWorksSoftware/edi-json](https://github.com/BerryWorksSoftware/edi-json) ⭐ 110 | 🐛 14 | 🌐 Java | 📅 2026-09-16 - Serializing EDI as JSON
 * [ballerina-platform/edi-tools](https://github.com/ballerina-platform/edi-tools) ⭐ 108 | 🐛 1 | 🌐 Ballerina | 📅 2026-09-15 - This library provides the functionality required to process EDI files and implement EDI integrations.
 * [imsweb/x12-parser](https://github.com/imsweb/x12-parser) ⭐ 98 | 🐛 8 | 🌐 Java | 📅 2026-06-17 - A Java parser for ANSI ASC X12 documents.
@@ -41,7 +41,7 @@ List of EDI Github Resources. Pull Requests are Welcome!
 ### PHP
 
 * [php-edifact/edifact](https://github.com/php-edifact/edifact) ⭐ 287 | 🐛 3 | 🌐 PHP | 📅 2025-10-30 - (PHP) Tools to process EDI messages in UN/EDIFACT format
-* [php-edifact/edifact-generator](https://github.com/php-edifact/edifact-generator) ⭐ 38 | 🐛 8 | 🌐 PHP | 📅 2026-03-26 - Library to create UN/EDIFACT messages
+* [php-edifact/edifact-generator](https://github.com/php-edifact/edifact-generator) ⭐ 38 | 🐛 8 | 🌐 PHP | 📅 2026-09-26 - Library to create UN/EDIFACT messages
 * [php-edifact/edifact-mapping](https://github.com/php-edifact/edifact-mapping) ⭐ 24 | 🐛 2 | 🌐 PHP | 📅 2026-02-18 - UN/EDIFACT mappings in XML, with a PHP provider
 
 ### Javascript
@@ -81,10 +81,10 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ## Systems or Paid Services
 
-* [Odoo](https://github.com/odoo/odoo) ⭐ 54,686 | 🐛 10,532 | 🌐 Python | 📅 2026-09-26 - Odoo. Open Source Apps To Grow Your Business.
+* [Odoo](https://github.com/odoo/odoo) ⭐ 54,700 | 🐛 10,520 | 🌐 Python | 📅 2026-09-27 - Odoo. Open Source Apps To Grow Your Business.
 * [nextgenhealthcare](https://github.com/nextgenhealthcare/connect) ⭐ 1,204 | 🐛 411 | 🌐 Java | 📅 2026-09-17 - The swiss army knife of healthcare integration.
-* [blueseerERP/blueseer](https://github.com/blueseerERP/blueseer) ⭐ 171 | 🐛 7 | 🌐 Java | 📅 2026-09-25 - A Free ERP and EDI solution for the manufacturing community.
-* [OCA/edi](https://github.com/OCA/edi) ⭐ 142 | 🐛 66 | 🌐 Python | 📅 2026-09-16 - EDI Modules for Ooda
+* [blueseerERP/blueseer](https://github.com/blueseerERP/blueseer) ⭐ 171 | 🐛 7 | 🌐 Java | 📅 2026-09-27 - A Free ERP and EDI solution for the manufacturing community.
+* [OCA/edi](https://github.com/OCA/edi) ⭐ 142 | 🐛 67 | 🌐 Python | 📅 2026-09-16 - EDI Modules for Ooda
 * [BerryWorksSoftware/edireader](https://github.com/BerryWorksSoftware/edireader) ⭐ 141 | 🐛 13 | 🌐 Java | 📅 2026-09-16 - EDIReader is a Java package for parsing business documents structured according to EDI standards. It supports the SAX and JAXP interfaces defined for XML, making it suitable for use in any XML-based system that allows the configuration of a custom SAX parser.
 * [EdiFabric/EDIFACT-Examples](https://github.com/EdiFabric/EDIFACT-Examples) ⭐ 110 | 🐛 3 | 🌐 C# | 📅 2026-09-24 -  EDIFACT and EANCOM Examples for EdiFabric EDI Tools
 * [EdiFabric/X12-Examples](https://github.com/EdiFabric/X12-Examples) ⭐ 83 | 🐛 2 | 🌐 C# | 📅 2026-09-24 - X12 and HIPAA Examples for EdiFabric EDI Tools
@@ -140,4 +140,4 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
