@@ -9,7 +9,7 @@ List of EDI Github Resources. Pull Requests are Welcome!
 ### Java
 
 * [smooks/smooks](https://github.com/smooks/smooks) ⭐ 421 | 🐛 35 | 🌐 Java | 📅 2025-11-24 - An extensible Java framework for building XML and non-XML (CSV, EDI, Java, etc...) streaming applications
-* [xlate/staedi](https://github.com/xlate/staedi) ⭐ 150 | 🐛 8 | 🌐 Java | 📅 2026-09-28 - General X12/EDIFACT stream reader and writer with support for validation of standards with optional schema customizations (i.e. implementation guides)
+* [xlate/staedi](https://github.com/xlate/staedi) ⭐ 150 | 🐛 9 | 🌐 Java | 📅 2026-09-28 - General X12/EDIFACT stream reader and writer with support for validation of standards with optional schema customizations (i.e. implementation guides)
 * [BerryWorksSoftware/edi-json](https://github.com/BerryWorksSoftware/edi-json) ⭐ 110 | 🐛 14 | 🌐 Java | 📅 2026-09-16 - Serializing EDI as JSON
 * [ballerina-platform/edi-tools](https://github.com/ballerina-platform/edi-tools) ⭐ 108 | 🐛 1 | 🌐 Ballerina | 📅 2026-09-15 - This library provides the functionality required to process EDI files and implement EDI integrations.
 * [imsweb/x12-parser](https://github.com/imsweb/x12-parser) ⭐ 98 | 🐛 8 | 🌐 Java | 📅 2026-06-17 - A Java parser for ANSI ASC X12 documents.
@@ -27,7 +27,7 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ### Python
 
-* [nerdocs/pydifact](https://github.com/nerdocs/pydifact) ⭐ 191 | 🐛 8 | 🌐 Python | 📅 2026-09-28 - A python library for parsing EDIFACT messages
+* [nerdocs/pydifact](https://github.com/nerdocs/pydifact) ⭐ 190 | 🐛 7 | 🌐 Python | 📅 2026-09-29 - A python library for parsing EDIFACT messages
 * [keironstoddart/edi-835-parser](https://github.com/keironstoddart/edi-835-parser) ⭐ 113 | 🐛 20 | 🌐 Python | 📅 2024-06-03 - A simple EDI 835 file format parser.
 * [git-albertomarin/badX12](https://github.com/git-albertomarin/badX12) ⭐ 60 | 🐛 8 | 🌐 Python | 📅 2026-04-13 - A Python Library for parsing ANSI ASC X12 files.
 * [glitchassassin/python-edi](https://github.com/glitchassassin/python-edi) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2023-10-16 - EDI message generator in Python. Creates & validates messages according to specific formats
@@ -81,10 +81,10 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ## Systems or Paid Services
 
-* [Odoo](https://github.com/odoo/odoo) ⭐ 54,723 | 🐛 10,556 | 🌐 Python | 📅 2026-09-28 - Odoo. Open Source Apps To Grow Your Business.
+* [Odoo](https://github.com/odoo/odoo) ⭐ 54,743 | 🐛 10,597 | 🌐 Python | 📅 2026-09-29 - Odoo. Open Source Apps To Grow Your Business.
 * [nextgenhealthcare](https://github.com/nextgenhealthcare/connect) ⭐ 1,205 | 🐛 411 | 🌐 Java | 📅 2026-09-17 - The swiss army knife of healthcare integration.
 * [blueseerERP/blueseer](https://github.com/blueseerERP/blueseer) ⭐ 172 | 🐛 7 | 🌐 Java | 📅 2026-09-27 - A Free ERP and EDI solution for the manufacturing community.
-* [OCA/edi](https://github.com/OCA/edi) ⭐ 142 | 🐛 66 | 🌐 Python | 📅 2026-09-28 - EDI Modules for Ooda
+* [OCA/edi](https://github.com/OCA/edi) ⭐ 142 | 🐛 66 | 🌐 Python | 📅 2026-09-29 - EDI Modules for Ooda
 * [BerryWorksSoftware/edireader](https://github.com/BerryWorksSoftware/edireader) ⭐ 141 | 🐛 13 | 🌐 Java | 📅 2026-09-16 - EDIReader is a Java package for parsing business documents structured according to EDI standards. It supports the SAX and JAXP interfaces defined for XML, making it suitable for use in any XML-based system that allows the configuration of a custom SAX parser.
 * [EdiFabric/EDIFACT-Examples](https://github.com/EdiFabric/EDIFACT-Examples) ⭐ 110 | 🐛 3 | 🌐 C# | 📅 2026-09-24 -  EDIFACT and EANCOM Examples for EdiFabric EDI Tools
 * [EdiFabric/X12-Examples](https://github.com/EdiFabric/X12-Examples) ⭐ 83 | 🐛 2 | 🌐 C# | 📅 2026-09-24 - X12 and HIPAA Examples for EdiFabric EDI Tools
@@ -112,7 +112,7 @@ List of EDI Github Resources. Pull Requests are Welcome!
 * [X12 Reference](https://www.stedi.com/edi/x12) - Free online viewer for all releases of X12 specifications.
 * [EDI Guide Catalog](https://www.stedi.com/edi/catalog) - An open directory of the most-requested Stedi Guides, interactive EDI specifications that let you instantly validate EDI documents.
 * [EDIFACT Reference](https://www.stedi.com/edi/edifact) - Free online viewer for all releases of EDIFACT specifications.
-* [Stedi/awesome-edi](https://github.com/Stedi/awesome-edi) ⭐ 145 | 🐛 6 | 📅 2026-04-14 - List by Stedi of related resources.
+* [Stedi/awesome-edi](https://github.com/Stedi/awesome-edi) ⭐ 145 | 🐛 6 | 📅 2026-09-29 - List by Stedi of related resources.
 
 ## Syntax Highlighters
 
@@ -136,8 +136,8 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ## AI created or used
 
-* [Tediware/tedicli](https://github.com/Tediware/tedicli) ⭐ 4 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-28 - Official command line interface (CLI) tool for Tediware
+* [Tediware/tedicli](https://github.com/Tediware/tedicli) ⭐ 4 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-29 - Official command line interface (CLI) tool for Tediware
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
