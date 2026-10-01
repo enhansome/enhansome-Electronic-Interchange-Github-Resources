@@ -50,11 +50,11 @@
                 "id": 94276393,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T13:25:14Z",
+                "last_commit": "2026-09-30T14:13:54Z",
                 "open_issues": 8,
                 "owner": "xlate",
                 "repo": "staedi",
-                "stars": 150,
+                "stars": 151,
                 "topics": [
                   "edi",
                   "edi-api",
@@ -1086,11 +1086,11 @@
             "id": 19745004,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-30T13:16:51Z",
-            "open_issues": 10664,
+            "last_commit": "2026-10-01T14:17:56Z",
+            "open_issues": 10716,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 54754,
+            "stars": 54772,
             "topics": [
               "apps",
               "business",
@@ -1174,7 +1174,7 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-30T07:43:20Z",
-            "open_issues": 66,
+            "open_issues": 67,
             "owner": "OCA",
             "repo": "edi",
             "stars": 142,
@@ -1444,7 +1444,7 @@
             "id": 751639368,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-21T18:55:55Z",
+            "last_commit": "2026-10-01T02:14:45Z",
             "open_issues": 1,
             "owner": "Healthcare-Data-Insight",
             "repo": "api-examples",
@@ -1797,7 +1797,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T13:44:14.190Z",
+    "last_updated": "2026-10-01T14:28:03.324Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of EDI (Mostly) Github Resources",
@@ -1805,7 +1805,7 @@
       "id": 113229846,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-08-13T18:56:54Z",
+      "last_commit": "2026-09-30T15:14:14Z",
       "open_issues": 2,
       "owner": "michaelachrisco",
       "repo": "Electronic-Interchange-Github-Resources",
@@ -1825,7 +1825,7 @@
         "x12"
       ]
     },
-    "original_repository_sha": "31f5e48effe0838d9123fdb0c2609c553fba59b9",
+    "original_repository_sha": "951ed854b6d52d5fb75550e87926123121a0b666",
     "enhanced_repository": "enhansome/enhansome-Electronic-Interchange-Github-Resources",
     "enhanced_repository_description": null,
     "title": "Awesome Electronic-Interchange-Github-Resources with stars"
