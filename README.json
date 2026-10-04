@@ -21,7 +21,7 @@
                 "open_issues": 35,
                 "owner": "smooks",
                 "repo": "smooks",
-                "stars": 421,
+                "stars": 422,
                 "topics": [
                   "analytics",
                   "chunking",
@@ -54,7 +54,7 @@
                 "open_issues": 8,
                 "owner": "xlate",
                 "repo": "staedi",
-                "stars": 151,
+                "stars": 153,
                 "topics": [
                   "edi",
                   "edi-api",
@@ -982,7 +982,7 @@
             "open_issues": 16,
             "owner": "azoner",
             "repo": "pyx12",
-            "stars": 189,
+            "stars": 190,
             "topics": [
               "api",
               "documentation",
@@ -1086,11 +1086,11 @@
             "id": 19745004,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T12:24:10Z",
-            "open_issues": 10669,
+            "last_commit": "2026-10-04T13:10:41Z",
+            "open_issues": 10677,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 54811,
+            "stars": 54823,
             "topics": [
               "apps",
               "business",
@@ -1119,7 +1119,7 @@
             "open_issues": 411,
             "owner": "nextgenhealthcare",
             "repo": "connect",
-            "stars": 1205,
+            "stars": 1206,
             "topics": [
               "healthcare",
               "hl7",
@@ -1143,7 +1143,7 @@
             "id": 227373743,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-10-02T12:53:26Z",
+            "last_commit": "2026-10-03T14:02:43Z",
             "open_issues": 7,
             "owner": "blueseerERP",
             "repo": "blueseer",
@@ -1157,6 +1157,41 @@
               "java",
               "manufacturing",
               "opensource"
+            ]
+          },
+          "first_seen": "2026-08-28T19:26:36.160Z"
+        },
+        {
+          "node_type": "item",
+          "title": "BerryWorksSoftware/edireader",
+          "description": "EDIReader is a Java package for parsing business documents structured according to EDI standards. It supports the SAX and JAXP interfaces defined for XML, making it suitable for use in any XML-based system that allows the configuration of a custom SAX parser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "EDIReader is a flexible and lightweight EDI parser, written in pure Java with many integration options. It has handled millions of transactions in a wide variety of products, services, industries, platforms, and custom integrations. Used in BerryWave EDI API and BerryWave Python EDI SDK.",
+            "homepage": "http://berryworkssoftware.github.io/edireader/",
+            "id": 34661048,
+            "language": "Java",
+            "license": "GPL-3.0",
+            "last_commit": "2026-09-16T11:53:46Z",
+            "open_issues": 13,
+            "owner": "BerryWorksSoftware",
+            "repo": "edireader",
+            "stars": 142,
+            "topics": [
+              "270",
+              "271",
+              "834",
+              "835",
+              "837",
+              "edi",
+              "edifact",
+              "edireader",
+              "java",
+              "json",
+              "sax",
+              "x12",
+              "xml"
             ]
           },
           "first_seen": "2026-08-28T19:26:36.160Z"
@@ -1183,41 +1218,6 @@
               "hacktoberfest",
               "odoo",
               "python"
-            ]
-          },
-          "first_seen": "2026-08-28T19:26:36.160Z"
-        },
-        {
-          "node_type": "item",
-          "title": "BerryWorksSoftware/edireader",
-          "description": "EDIReader is a Java package for parsing business documents structured according to EDI standards. It supports the SAX and JAXP interfaces defined for XML, making it suitable for use in any XML-based system that allows the configuration of a custom SAX parser.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "EDIReader is a flexible and lightweight EDI parser, written in pure Java with many integration options. It has handled millions of transactions in a wide variety of products, services, industries, platforms, and custom integrations. Used in BerryWave EDI API and BerryWave Python EDI SDK.",
-            "homepage": "http://berryworkssoftware.github.io/edireader/",
-            "id": 34661048,
-            "language": "Java",
-            "license": "GPL-3.0",
-            "last_commit": "2026-09-16T11:53:46Z",
-            "open_issues": 13,
-            "owner": "BerryWorksSoftware",
-            "repo": "edireader",
-            "stars": 141,
-            "topics": [
-              "270",
-              "271",
-              "834",
-              "835",
-              "837",
-              "edi",
-              "edifact",
-              "edireader",
-              "java",
-              "json",
-              "sax",
-              "x12",
-              "xml"
             ]
           },
           "first_seen": "2026-08-28T19:26:36.160Z"
@@ -1797,7 +1797,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T12:34:20.445Z",
+    "last_updated": "2026-10-04T13:12:00.044Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of EDI (Mostly) Github Resources",
