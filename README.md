@@ -20,7 +20,7 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ### C#/DotNet
 
-* [indice-co/EDI.Net](https://github.com/indice-co/EDI.Net) ⭐ 490 | 🐛 89 | 🌐 C# | 📅 2025-12-01 - EDI Serializer/Deserializer. Supports EDIFact, X12 and TRADACOMS formats
+* [indice-co/EDI.Net](https://github.com/indice-co/EDI.Net) ⭐ 490 | 🐛 90 | 🌐 C# | 📅 2025-12-01 - EDI Serializer/Deserializer. Supports EDIFact, X12 and TRADACOMS formats
 * [olmelabs/EdiEngine](https://github.com/olmelabs/EdiEngine) ⭐ 109 | 🐛 10 | 🌐 C# | 📅 2023-11-02 - Simple .NET EDI Reader, Writer and Validator. Read, Write and Validate X12 EDI files with simple EDI Parser written on C#.
 * [Silvenga/EdiWeave](https://github.com/Silvenga/EdiWeave) ⭐ 65 | 🐛 4 | 🌐 C# | 📅 2024-08-07 - Open Source Hard-Fork of EdiFabric
 * [MassTransit/Machete](https://github.com/MassTransit/Machete) ⭐ 43 | 🐛 0 | 🌐 C# | 📅 2019-04-25 - Cut through the Crap, with Machete, a text parser, object mapper, and query engine.
@@ -81,7 +81,7 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ## Systems or Paid Services
 
-* [Odoo](https://github.com/odoo/odoo) ⭐ 54,853 | 🐛 10,712 | 🌐 Python | 📅 2026-10-06 - Odoo. Open Source Apps To Grow Your Business.
+* [Odoo](https://github.com/odoo/odoo) ⭐ 54,862 | 🐛 10,703 | 🌐 Python | 📅 2026-10-06 - Odoo. Open Source Apps To Grow Your Business.
 * [nextgenhealthcare](https://github.com/nextgenhealthcare/connect) ⭐ 1,208 | 🐛 411 | 🌐 Java | 📅 2026-09-17 - The swiss army knife of healthcare integration.
 * [blueseerERP/blueseer](https://github.com/blueseerERP/blueseer) ⭐ 172 | 🐛 7 | 🌐 Java | 📅 2026-10-03 - A Free ERP and EDI solution for the manufacturing community.
 * [BerryWorksSoftware/edireader](https://github.com/BerryWorksSoftware/edireader) ⭐ 142 | 🐛 13 | 🌐 Java | 📅 2026-09-16 - EDIReader is a Java package for parsing business documents structured according to EDI standards. It supports the SAX and JAXP interfaces defined for XML, making it suitable for use in any XML-based system that allows the configuration of a custom SAX parser.
