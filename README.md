@@ -81,8 +81,8 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ## Systems or Paid Services
 
-* [Odoo](https://github.com/odoo/odoo) ⭐ 54,832 | 🐛 10,658 | 🌐 Python | 📅 2026-10-05 - Odoo. Open Source Apps To Grow Your Business.
-* [nextgenhealthcare](https://github.com/nextgenhealthcare/connect) ⭐ 1,207 | 🐛 411 | 🌐 Java | 📅 2026-09-17 - The swiss army knife of healthcare integration.
+* [Odoo](https://github.com/odoo/odoo) ⭐ 54,853 | 🐛 10,712 | 🌐 Python | 📅 2026-10-06 - Odoo. Open Source Apps To Grow Your Business.
+* [nextgenhealthcare](https://github.com/nextgenhealthcare/connect) ⭐ 1,208 | 🐛 411 | 🌐 Java | 📅 2026-09-17 - The swiss army knife of healthcare integration.
 * [blueseerERP/blueseer](https://github.com/blueseerERP/blueseer) ⭐ 172 | 🐛 7 | 🌐 Java | 📅 2026-10-03 - A Free ERP and EDI solution for the manufacturing community.
 * [BerryWorksSoftware/edireader](https://github.com/BerryWorksSoftware/edireader) ⭐ 142 | 🐛 13 | 🌐 Java | 📅 2026-09-16 - EDIReader is a Java package for parsing business documents structured according to EDI standards. It supports the SAX and JAXP interfaces defined for XML, making it suitable for use in any XML-based system that allows the configuration of a custom SAX parser.
 * [OCA/edi](https://github.com/OCA/edi) ⭐ 142 | 🐛 66 | 🌐 Python | 📅 2026-10-05 - EDI Modules for Ooda
@@ -139,4 +139,4 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
