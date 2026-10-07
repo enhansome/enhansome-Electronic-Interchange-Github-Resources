@@ -383,7 +383,7 @@
                 "open_issues": 9,
                 "owner": "nerdocs",
                 "repo": "pydifact",
-                "stars": 190,
+                "stars": 191,
                 "topics": [
                   "edifact",
                   "library",
@@ -1086,11 +1086,11 @@
             "id": 19745004,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T13:54:30Z",
-            "open_issues": 10703,
+            "last_commit": "2026-10-07T14:29:47Z",
+            "open_issues": 10731,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 54862,
+            "stars": 54872,
             "topics": [
               "apps",
               "business",
@@ -1208,8 +1208,8 @@
             "id": 69865547,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-05T14:26:05Z",
-            "open_issues": 66,
+            "last_commit": "2026-10-06T15:57:57Z",
+            "open_issues": 65,
             "owner": "OCA",
             "repo": "edi",
             "stars": 142,
@@ -1797,7 +1797,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T14:11:57.904Z",
+    "last_updated": "2026-10-07T14:30:38.215Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of EDI (Mostly) Github Resources",
