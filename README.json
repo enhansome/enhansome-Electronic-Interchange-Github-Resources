@@ -274,7 +274,7 @@
                 "open_issues": 90,
                 "owner": "indice-co",
                 "repo": "EDI.Net",
-                "stars": 490,
+                "stars": 491,
                 "topics": [
                   "edi",
                   "edifact",
@@ -557,7 +557,7 @@
                 "open_issues": 3,
                 "owner": "php-edifact",
                 "repo": "edifact",
-                "stars": 287,
+                "stars": 288,
                 "topics": [
                   "edi",
                   "edifact",
@@ -1086,11 +1086,11 @@
             "id": 19745004,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T14:20:05Z",
-            "open_issues": 10784,
+            "last_commit": "2026-10-10T13:42:43Z",
+            "open_issues": 10809,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 54947,
+            "stars": 54956,
             "topics": [
               "apps",
               "business",
@@ -1147,7 +1147,7 @@
             "open_issues": 7,
             "owner": "blueseerERP",
             "repo": "blueseer",
-            "stars": 172,
+            "stars": 173,
             "topics": [
               "accounting-software",
               "business-solutions",
@@ -1208,8 +1208,8 @@
             "id": 69865547,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-09T11:54:51Z",
-            "open_issues": 66,
+            "last_commit": "2026-10-09T23:41:47Z",
+            "open_issues": 65,
             "owner": "OCA",
             "repo": "edi",
             "stars": 142,
@@ -1797,7 +1797,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T14:22:23.790Z",
+    "last_updated": "2026-10-10T13:42:44.785Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of EDI (Mostly) Github Resources",
