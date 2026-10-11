@@ -900,7 +900,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2025-02-21T17:27:14Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "jf-tech",
                 "repo": "omniparser",
                 "stars": 1088,
@@ -1086,11 +1086,11 @@
             "id": 19745004,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-10T13:42:43Z",
-            "open_issues": 10809,
+            "last_commit": "2026-10-11T14:01:09Z",
+            "open_issues": 10797,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 54956,
+            "stars": 54967,
             "topics": [
               "apps",
               "business",
@@ -1119,7 +1119,7 @@
             "open_issues": 411,
             "owner": "nextgenhealthcare",
             "repo": "connect",
-            "stars": 1209,
+            "stars": 1210,
             "topics": [
               "healthcare",
               "hl7",
@@ -1173,7 +1173,7 @@
             "id": 34661048,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-16T11:53:46Z",
+            "last_commit": "2026-10-11T13:14:39Z",
             "open_issues": 13,
             "owner": "BerryWorksSoftware",
             "repo": "edireader",
@@ -1797,7 +1797,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T13:42:44.785Z",
+    "last_updated": "2026-10-11T14:03:13.929Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of EDI (Mostly) Github Resources",
