@@ -1086,11 +1086,11 @@
             "id": 19745004,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-13T14:49:51Z",
-            "open_issues": 10846,
+            "last_commit": "2026-10-14T12:52:22Z",
+            "open_issues": 10931,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 55009,
+            "stars": 55027,
             "topics": [
               "apps",
               "business",
@@ -1144,7 +1144,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-10-09T12:09:47Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "blueseerERP",
             "repo": "blueseer",
             "stars": 174,
@@ -1157,6 +1157,32 @@
               "java",
               "manufacturing",
               "opensource"
+            ]
+          },
+          "first_seen": "2026-08-28T19:26:36.160Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OCA/edi",
+          "description": "EDI Modules for Ooda",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 69865547,
+            "language": "Python",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-10-13T07:54:21Z",
+            "open_issues": 65,
+            "owner": "OCA",
+            "repo": "edi",
+            "stars": 143,
+            "topics": [
+              "erp",
+              "hacktoberfest",
+              "odoo",
+              "python"
             ]
           },
           "first_seen": "2026-08-28T19:26:36.160Z"
@@ -1192,32 +1218,6 @@
               "sax",
               "x12",
               "xml"
-            ]
-          },
-          "first_seen": "2026-08-28T19:26:36.160Z"
-        },
-        {
-          "node_type": "item",
-          "title": "OCA/edi",
-          "description": "EDI Modules for Ooda",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 69865547,
-            "language": "Python",
-            "license": "AGPL-3.0",
-            "last_commit": "2026-10-13T07:54:21Z",
-            "open_issues": 65,
-            "owner": "OCA",
-            "repo": "edi",
-            "stars": 142,
-            "topics": [
-              "erp",
-              "hacktoberfest",
-              "odoo",
-              "python"
             ]
           },
           "first_seen": "2026-08-28T19:26:36.160Z"
@@ -1797,7 +1797,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T15:03:48.409Z",
+    "last_updated": "2026-10-14T12:52:47.477Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of EDI (Mostly) Github Resources",
