@@ -27,7 +27,7 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ### Python
 
-* [nerdocs/pydifact](https://github.com/nerdocs/pydifact) ⭐ 192 | 🐛 8 | 🌐 Python | 📅 2026-10-13 - A python library for parsing EDIFACT messages
+* [nerdocs/pydifact](https://github.com/nerdocs/pydifact) ⭐ 192 | 🐛 7 | 🌐 Python | 📅 2026-10-16 - A python library for parsing EDIFACT messages
 * [keironstoddart/edi-835-parser](https://github.com/keironstoddart/edi-835-parser) ⭐ 113 | 🐛 20 | 🌐 Python | 📅 2024-06-03 - A simple EDI 835 file format parser.
 * [git-albertomarin/badX12](https://github.com/git-albertomarin/badX12) ⭐ 60 | 🐛 8 | 🌐 Python | 📅 2026-04-13 - A Python Library for parsing ANSI ASC X12 files.
 * [glitchassassin/python-edi](https://github.com/glitchassassin/python-edi) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2023-10-16 - EDI message generator in Python. Creates & validates messages according to specific formats
@@ -66,28 +66,28 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ### Golang
 
-* [jf-tech/omniparser](https://github.com/jf-tech/omniparser) ⭐ 1,087 | 🐛 1 | 🌐 Go | 📅 2026-10-11 - omniparser is a native Golang ETL parser that ingests input data of various
+* [jf-tech/omniparser](https://github.com/jf-tech/omniparser) ⭐ 1,086 | 🐛 1 | 🌐 Go | 📅 2026-10-11 - omniparser is a native Golang ETL parser that ingests input data of various
   formats (CSV, txt, fixed length/width, XML, EDI/X12/EDIFACT, JSON, and custom formats) in streaming fashion and transforms data into desired
-  JSON output based on a schema written in JSON. See [EDI](https://github.com/jf-tech/omniparser/blob/master/doc/edi_in_depth.md) ⭐ 1,087 | 🐛 1 | 🌐 Go | 📅 2026-10-11 and
-  [EDI readers](https://github.com/jf-tech/omniparser/blob/master/doc/programmability.md#full-edi-reader) ⭐ 1,087 | 🐛 1 | 🌐 Go | 📅 2026-10-11 for more usage details.
-* [moov-io/x12](https://github.com/moov-io/x12) ⭐ 21 | 🐛 4 | 🌐 Go | 📅 2026-10-08 - ASC X12 standards reader/writer
+  JSON output based on a schema written in JSON. See [EDI](https://github.com/jf-tech/omniparser/blob/master/doc/edi_in_depth.md) ⭐ 1,086 | 🐛 1 | 🌐 Go | 📅 2026-10-11 and
+  [EDI readers](https://github.com/jf-tech/omniparser/blob/master/doc/programmability.md#full-edi-reader) ⭐ 1,086 | 🐛 1 | 🌐 Go | 📅 2026-10-11 for more usage details.
+* [moov-io/x12](https://github.com/moov-io/x12) ⭐ 21 | 🐛 4 | 🌐 Go | 📅 2026-10-15 - ASC X12 standards reader/writer
 
 ## CLI utilities
 
-* [azoner/pyx12](https://github.com/azoner/pyx12) ⭐ 190 | 🐛 16 | 🌐 Python | 📅 2026-05-06 - (Python) HIPAA X12 document validator and converter
+* [azoner/pyx12](https://github.com/azoner/pyx12) ⭐ 190 | 🐛 17 | 🌐 Python | 📅 2026-05-06 - (Python) HIPAA X12 document validator and converter
 * [notpeter/edicat](https://github.com/notpeter/edicat) ⭐ 20 | 🐛 0 | 🌐 Rust | 📅 2026-01-04 - Print and concatenate X12 and Edifact EDI
 * [clarkema/x12pp](https://github.com/clarkema/x12pp) ⭐ 11 | 🐛 0 | 🌐 Rust | 📅 2021-06-21 - Fast cross-platform X12 pretty-printer in Rust
 * [lanceengland/EdiTools](https://github.com/lanceengland/EdiTools) ⭐ 9 | 🐛 2 | 🌐 C# | 📅 2026-02-16 - EdiTools is a repository of PowerShell scripts for parsing EDI X12 files.
 
 ## Systems or Paid Services
 
-* [Odoo](https://github.com/odoo/odoo) ⭐ 55,051 | 🐛 10,949 | 🌐 Python | 📅 2026-10-15 - Odoo. Open Source Apps To Grow Your Business.
-* [nextgenhealthcare](https://github.com/nextgenhealthcare/connect) ⭐ 1,211 | 🐛 411 | 🌐 Java | 📅 2026-09-17 - The swiss army knife of healthcare integration.
+* [Odoo](https://github.com/odoo/odoo) ⭐ 55,083 | 🐛 10,962 | 🌐 Python | 📅 2026-10-16 - Odoo. Open Source Apps To Grow Your Business.
+* [nextgenhealthcare](https://github.com/nextgenhealthcare/connect) ⭐ 1,213 | 🐛 411 | 🌐 Java | 📅 2026-09-17 - The swiss army knife of healthcare integration.
 * [blueseerERP/blueseer](https://github.com/blueseerERP/blueseer) ⭐ 174 | 🐛 8 | 🌐 Java | 📅 2026-10-09 - A Free ERP and EDI solution for the manufacturing community.
-* [OCA/edi](https://github.com/OCA/edi) ⭐ 143 | 🐛 66 | 🌐 Python | 📅 2026-10-14 - EDI Modules for Ooda
+* [OCA/edi](https://github.com/OCA/edi) ⭐ 144 | 🐛 67 | 🌐 Python | 📅 2026-10-16 - EDI Modules for Ooda
 * [BerryWorksSoftware/edireader](https://github.com/BerryWorksSoftware/edireader) ⭐ 142 | 🐛 13 | 🌐 Java | 📅 2026-10-14 - EDIReader is a Java package for parsing business documents structured according to EDI standards. It supports the SAX and JAXP interfaces defined for XML, making it suitable for use in any XML-based system that allows the configuration of a custom SAX parser.
-* [EdiFabric/EDIFACT-Examples](https://github.com/EdiFabric/EDIFACT-Examples) ⭐ 110 | 🐛 3 | 🌐 C# | 📅 2026-10-13 -  EDIFACT and EANCOM Examples for EdiFabric EDI Tools
-* [EdiFabric/X12-Examples](https://github.com/EdiFabric/X12-Examples) ⭐ 83 | 🐛 2 | 🌐 C# | 📅 2026-10-13 - X12 and HIPAA Examples for EdiFabric EDI Tools
+* [EdiFabric/EDIFACT-Examples](https://github.com/EdiFabric/EDIFACT-Examples) ⭐ 110 | 🐛 3 | 🌐 C# | 📅 2026-10-15 -  EDIFACT and EANCOM Examples for EdiFabric EDI Tools
+* [EdiFabric/X12-Examples](https://github.com/EdiFabric/X12-Examples) ⭐ 83 | 🐛 2 | 🌐 C# | 📅 2026-10-15 - X12 and HIPAA Examples for EdiFabric EDI Tools
 * [abhishek-ram/pyas2](https://github.com/abhishek-ram/pyas2) ⭐ 47 | 🐛 8 | 🌐 Python | 📅 2020-07-24 - A pythonic AS2 client and server
 * [smooks/smooks-edi-cartridge](https://github.com/smooks/smooks-edi-cartridge) ⭐ 30 | 🐛 22 | 🌐 Java | 📅 2025-11-24 - Smooks EDI & EDIFACT cartridges for reading as well as writing EDI.
 * [Campbellony/X12SqlServer](https://github.com/campbellony/x12sqlserver) ⭐ 5 | 🐛 0 | 🌐 PLpgSQL | 📅 2018-11-29 - Simple X12 data model with TSQL parsing procedures
@@ -139,4 +139,4 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
