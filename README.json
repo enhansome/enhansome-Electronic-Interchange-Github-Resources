@@ -978,8 +978,8 @@
             "id": 3490313,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-05-06T21:55:48Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-17T17:11:37Z",
+            "open_issues": 16,
             "owner": "azoner",
             "repo": "pyx12",
             "stars": 190,
@@ -1086,11 +1086,11 @@
             "id": 19745004,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-17T11:36:37Z",
-            "open_issues": 10964,
+            "last_commit": "2026-10-18T11:57:33Z",
+            "open_issues": 10944,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 55106,
+            "stars": 55123,
             "topics": [
               "apps",
               "business",
@@ -1797,7 +1797,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T11:37:30.013Z",
+    "last_updated": "2026-10-18T12:03:51.422Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of EDI (Mostly) Github Resources",
