@@ -8,7 +8,7 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ### Java
 
-* [smooks/smooks](https://github.com/smooks/smooks) ⭐ 422 | 🐛 35 | 🌐 Java | 📅 2025-11-24 - An extensible Java framework for building XML and non-XML (CSV, EDI, Java, etc...) streaming applications
+* [smooks/smooks](https://github.com/smooks/smooks) ⭐ 423 | 🐛 35 | 🌐 Java | 📅 2025-11-24 - An extensible Java framework for building XML and non-XML (CSV, EDI, Java, etc...) streaming applications
 * [xlate/staedi](https://github.com/xlate/staedi) ⭐ 153 | 🐛 8 | 🌐 Java | 📅 2026-10-19 - General X12/EDIFACT stream reader and writer with support for validation of standards with optional schema customizations (i.e. implementation guides)
 * [BerryWorksSoftware/edi-json](https://github.com/BerryWorksSoftware/edi-json) ⭐ 110 | 🐛 14 | 🌐 Java | 📅 2026-09-16 - Serializing EDI as JSON
 * [ballerina-platform/edi-tools](https://github.com/ballerina-platform/edi-tools) ⭐ 107 | 🐛 1 | 🌐 Ballerina | 📅 2026-09-15 - This library provides the functionality required to process EDI files and implement EDI integrations.
@@ -49,7 +49,7 @@ List of EDI Github Resources. Pull Requests are Welcome!
 * [tastypackets/x12-parser](https://github.com/tastypackets/x12-parser) ⭐ 62 | 🐛 9 | 🌐 TypeScript | 📅 2026-04-06 - X12 parser implemented using the NodeJS Transform API. Tested with over 1M 835 records, but is designed to work with all modern X12 records.
 * [aaronhuggins/node-x12](https://github.com/aaronhuggins/node-x12) ⭐ 55 | 🐛 10 | 🌐 TypeScript | 📅 2022-04-30 - ASC X12 parser, generator, query engine, and mapper; now with support for streams.
 * [tdecaluwe/node-edifact](https://github.com/tdecaluwe/node-edifact) ⭐ 53 | 🐛 8 | 🌐 JavaScript | 📅 2021-01-19 - (Javascript) Javascript stream parser for UN/EDIFACT documents.
-* [dlumpp/x12-patient-faker](https://github.com/dlumpp/x12-patient-faker) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-12 - Generates test patient data in HIPAA X12 format
+* [dlumpp/x12-patient-faker](https://github.com/dlumpp/x12-patient-faker) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-20 - Generates test patient data in HIPAA X12 format
 * [parcelLab/edi-iftmin](https://github.com/parcelLab/edi-iftmin) ⚠️ Archived - Parsing EDI IFTMIN and IFTSTA messages properly. Yes, EDI. You're welcome.
 * [jinger89/era](https://github.com/jinger89/era) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2025-05-20 - Extremely basic X12 835 file parser
 
@@ -81,8 +81,8 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ## Systems or Paid Services
 
-* [Odoo](https://github.com/odoo/odoo) ⭐ 55,150 | 🐛 10,961 | 🌐 Python | 📅 2026-10-19 - Odoo. Open Source Apps To Grow Your Business.
-* [nextgenhealthcare](https://github.com/nextgenhealthcare/connect) ⭐ 1,215 | 🐛 411 | 🌐 Java | 📅 2026-09-17 - The swiss army knife of healthcare integration.
+* [Odoo](https://github.com/odoo/odoo) ⭐ 55,182 | 🐛 11,022 | 🌐 Python | 📅 2026-10-20 - Odoo. Open Source Apps To Grow Your Business.
+* [nextgenhealthcare](https://github.com/nextgenhealthcare/connect) ⭐ 1,216 | 🐛 411 | 🌐 Java | 📅 2026-09-17 - The swiss army knife of healthcare integration.
 * [blueseerERP/blueseer](https://github.com/blueseerERP/blueseer) ⭐ 174 | 🐛 8 | 🌐 Java | 📅 2026-10-09 - A Free ERP and EDI solution for the manufacturing community.
 * [OCA/edi](https://github.com/OCA/edi) ⭐ 144 | 🐛 65 | 🌐 Python | 📅 2026-10-19 - EDI Modules for Ooda
 * [BerryWorksSoftware/edireader](https://github.com/BerryWorksSoftware/edireader) ⭐ 142 | 🐛 13 | 🌐 Java | 📅 2026-10-14 - EDIReader is a Java package for parsing business documents structured according to EDI standards. It supports the SAX and JAXP interfaces defined for XML, making it suitable for use in any XML-based system that allows the configuration of a custom SAX parser.
@@ -139,4 +139,4 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
