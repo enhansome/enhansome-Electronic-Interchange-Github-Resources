@@ -9,7 +9,7 @@ List of EDI Github Resources. Pull Requests are Welcome!
 ### Java
 
 * [smooks/smooks](https://github.com/smooks/smooks) ⭐ 423 | 🐛 35 | 🌐 Java | 📅 2025-11-24 - An extensible Java framework for building XML and non-XML (CSV, EDI, Java, etc...) streaming applications
-* [xlate/staedi](https://github.com/xlate/staedi) ⭐ 153 | 🐛 7 | 🌐 Java | 📅 2026-10-22 - General X12/EDIFACT stream reader and writer with support for validation of standards with optional schema customizations (i.e. implementation guides)
+* [xlate/staedi](https://github.com/xlate/staedi) ⭐ 154 | 🐛 7 | 🌐 Java | 📅 2026-10-22 - General X12/EDIFACT stream reader and writer with support for validation of standards with optional schema customizations (i.e. implementation guides)
 * [BerryWorksSoftware/edi-json](https://github.com/BerryWorksSoftware/edi-json) ⭐ 110 | 🐛 14 | 🌐 Java | 📅 2026-09-16 - Serializing EDI as JSON
 * [ballerina-platform/edi-tools](https://github.com/ballerina-platform/edi-tools) ⭐ 107 | 🐛 1 | 🌐 Ballerina | 📅 2026-09-15 - This library provides the functionality required to process EDI files and implement EDI integrations.
 * [imsweb/x12-parser](https://github.com/imsweb/x12-parser) ⭐ 98 | 🐛 8 | 🌐 Java | 📅 2026-06-17 - A Java parser for ANSI ASC X12 documents.
@@ -81,7 +81,7 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ## Systems or Paid Services
 
-* [Odoo](https://github.com/odoo/odoo) ⭐ 55,293 | 🐛 11,092 | 🌐 Python | 📅 2026-10-24 - Odoo. Open Source Apps To Grow Your Business.
+* [Odoo](https://github.com/odoo/odoo) ⭐ 55,310 | 🐛 11,095 | 🌐 Python | 📅 2026-10-25 - Odoo. Open Source Apps To Grow Your Business.
 * [nextgenhealthcare](https://github.com/nextgenhealthcare/connect) ⭐ 1,216 | 🐛 411 | 🌐 Java | 📅 2026-09-17 - The swiss army knife of healthcare integration.
 * [blueseerERP/blueseer](https://github.com/blueseerERP/blueseer) ⭐ 174 | 🐛 8 | 🌐 Java | 📅 2026-10-09 - A Free ERP and EDI solution for the manufacturing community.
 * [OCA/edi](https://github.com/OCA/edi) ⭐ 144 | 🐛 66 | 🌐 Python | 📅 2026-10-21 - EDI Modules for Ooda
@@ -139,4 +139,4 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._

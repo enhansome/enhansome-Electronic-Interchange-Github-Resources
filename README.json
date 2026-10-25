@@ -54,7 +54,7 @@
                 "open_issues": 7,
                 "owner": "xlate",
                 "repo": "staedi",
-                "stars": 153,
+                "stars": 154,
                 "topics": [
                   "edi",
                   "edi-api",
@@ -1086,11 +1086,11 @@
             "id": 19745004,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-24T11:53:12Z",
-            "open_issues": 11092,
+            "last_commit": "2026-10-25T11:31:34Z",
+            "open_issues": 11095,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 55293,
+            "stars": 55310,
             "topics": [
               "apps",
               "business",
@@ -1797,7 +1797,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T12:00:34.567Z",
+    "last_updated": "2026-10-25T12:34:18.276Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of EDI (Mostly) Github Resources",
