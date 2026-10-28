@@ -27,7 +27,7 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ### Python
 
-* [nerdocs/pydifact](https://github.com/nerdocs/pydifact) ⭐ 192 | 🐛 7 | 🌐 Python | 📅 2026-10-26 - A python library for parsing EDIFACT messages
+* [nerdocs/pydifact](https://github.com/nerdocs/pydifact) ⭐ 190 | 🐛 7 | 🌐 Python | 📅 2026-10-27 - A python library for parsing EDIFACT messages
 * [keironstoddart/edi-835-parser](https://github.com/keironstoddart/edi-835-parser) ⭐ 113 | 🐛 20 | 🌐 Python | 📅 2024-06-03 - A simple EDI 835 file format parser.
 * [git-albertomarin/badX12](https://github.com/git-albertomarin/badX12) ⭐ 60 | 🐛 8 | 🌐 Python | 📅 2026-04-13 - A Python Library for parsing ANSI ASC X12 files.
 * [glitchassassin/python-edi](https://github.com/glitchassassin/python-edi) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2023-10-16 - EDI message generator in Python. Creates & validates messages according to specific formats
@@ -81,10 +81,10 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ## Systems or Paid Services
 
-* [Odoo](https://github.com/odoo/odoo) ⭐ 55,365 | 🐛 11,181 | 🌐 Python | 📅 2026-10-27 - Odoo. Open Source Apps To Grow Your Business.
+* [Odoo](https://github.com/odoo/odoo) ⭐ 55,385 | 🐛 11,271 | 🌐 Python | 📅 2026-10-28 - Odoo. Open Source Apps To Grow Your Business.
 * [nextgenhealthcare](https://github.com/nextgenhealthcare/connect) ⭐ 1,217 | 🐛 411 | 🌐 Java | 📅 2026-09-17 - The swiss army knife of healthcare integration.
 * [blueseerERP/blueseer](https://github.com/blueseerERP/blueseer) ⭐ 174 | 🐛 8 | 🌐 Java | 📅 2026-10-27 - A Free ERP and EDI solution for the manufacturing community.
-* [OCA/edi](https://github.com/OCA/edi) ⭐ 144 | 🐛 67 | 🌐 Python | 📅 2026-10-21 - EDI Modules for Ooda
+* [OCA/edi](https://github.com/OCA/edi) ⭐ 144 | 🐛 68 | 🌐 Python | 📅 2026-10-21 - EDI Modules for Ooda
 * [BerryWorksSoftware/edireader](https://github.com/BerryWorksSoftware/edireader) ⭐ 142 | 🐛 13 | 🌐 Java | 📅 2026-10-14 - EDIReader is a Java package for parsing business documents structured according to EDI standards. It supports the SAX and JAXP interfaces defined for XML, making it suitable for use in any XML-based system that allows the configuration of a custom SAX parser.
 * [EdiFabric/EDIFACT-Examples](https://github.com/EdiFabric/EDIFACT-Examples) ⭐ 110 | 🐛 3 | 🌐 C# | 📅 2026-10-26 -  EDIFACT and EANCOM Examples for EdiFabric EDI Tools
 * [EdiFabric/X12-Examples](https://github.com/EdiFabric/X12-Examples) ⭐ 83 | 🐛 0 | 🌐 C# | 📅 2026-10-26 - X12 and HIPAA Examples for EdiFabric EDI Tools
@@ -139,4 +139,4 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
