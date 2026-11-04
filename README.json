@@ -21,7 +21,7 @@
                 "open_issues": 35,
                 "owner": "smooks",
                 "repo": "smooks",
-                "stars": 423,
+                "stars": 422,
                 "topics": [
                   "analytics",
                   "chunking",
@@ -940,7 +940,7 @@
                 "id": 613978039,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T22:04:05Z",
+                "last_commit": "2026-11-04T01:29:50Z",
                 "open_issues": 4,
                 "owner": "moov-io",
                 "repo": "x12",
@@ -1086,11 +1086,11 @@
             "id": 19745004,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-03T15:07:16Z",
-            "open_issues": 11227,
+            "last_commit": "2026-11-04T15:09:51Z",
+            "open_issues": 11223,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 55509,
+            "stars": 55538,
             "topics": [
               "apps",
               "business",
@@ -1119,7 +1119,7 @@
             "open_issues": 411,
             "owner": "nextgenhealthcare",
             "repo": "connect",
-            "stars": 1217,
+            "stars": 1218,
             "topics": [
               "healthcare",
               "hl7",
@@ -1143,7 +1143,7 @@
             "id": 227373743,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-11-03T13:16:57Z",
+            "last_commit": "2026-11-04T14:38:34Z",
             "open_issues": 8,
             "owner": "blueseerERP",
             "repo": "blueseer",
@@ -1238,7 +1238,7 @@
             "open_issues": 3,
             "owner": "EdiFabric",
             "repo": "EDIFACT.NET",
-            "stars": 110,
+            "stars": 111,
             "topics": [
               "contrl",
               "d03b",
@@ -1279,7 +1279,7 @@
             "open_issues": 0,
             "owner": "EdiFabric",
             "repo": "X12.NET",
-            "stars": 83,
+            "stars": 84,
             "topics": [
               "210",
               "214",
@@ -1797,7 +1797,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T15:08:04.824Z",
+    "last_updated": "2026-11-04T15:26:37.423Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of EDI (Mostly) Github Resources",
