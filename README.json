@@ -50,7 +50,7 @@
                 "id": 94276393,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T18:00:22Z",
+                "last_commit": "2026-11-08T13:12:46Z",
                 "open_issues": 7,
                 "owner": "xlate",
                 "repo": "staedi",
@@ -1086,11 +1086,11 @@
             "id": 19745004,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-07T14:02:10Z",
-            "open_issues": 11262,
+            "last_commit": "2026-11-08T13:34:36Z",
+            "open_issues": 11255,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 55618,
+            "stars": 55639,
             "topics": [
               "apps",
               "business",
@@ -1797,7 +1797,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T14:02:55.792Z",
+    "last_updated": "2026-11-08T14:17:47.848Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of EDI (Mostly) Github Resources",
@@ -1806,7 +1806,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-09-30T15:14:14Z",
-      "open_issues": 2,
+      "open_issues": 4,
       "owner": "michaelachrisco",
       "repo": "Electronic-Interchange-Github-Resources",
       "stars": 352,
