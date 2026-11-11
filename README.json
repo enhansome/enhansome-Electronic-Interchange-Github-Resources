@@ -50,8 +50,8 @@
                 "id": 94276393,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-09T14:01:30Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-11T10:02:46Z",
+                "open_issues": 8,
                 "owner": "xlate",
                 "repo": "staedi",
                 "stars": 155,
@@ -631,7 +631,7 @@
                 "open_issues": 9,
                 "owner": "tastypackets",
                 "repo": "x12-parser",
-                "stars": 62,
+                "stars": 63,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:26:36.160Z"
@@ -746,6 +746,39 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T19:26:36.160Z"
+            },
+            {
+              "node_type": "item",
+              "title": "cosyte/x12",
+              "description": "ASC X12 healthcare EDI parser, serializer and builder for Node.js and TypeScript. Covers the 005010 transaction sets adopted under HIPAA and keeps every amount in exact decimal arithmetic.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Developer-focused ASC X12 healthcare EDI parser, serializer, and builder for Node.js and TypeScript: lenient on parse, spec-clean on emit.",
+                "homepage": "https://docs.cosyte.com/x12",
+                "id": 1218533782,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-11-11T14:52:00Z",
+                "open_issues": 2,
+                "owner": "cosyte",
+                "repo": "x12",
+                "stars": 4,
+                "topics": [
+                  "270",
+                  "271",
+                  "835",
+                  "837",
+                  "edi",
+                  "health-it",
+                  "healthcare",
+                  "interoperability",
+                  "nodejs",
+                  "typescript",
+                  "x12"
+                ]
+              },
+              "first_seen": "2026-11-11T15:12:35.834Z"
             }
           ],
           "description": null,
@@ -979,7 +1012,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-08T20:34:07Z",
-            "open_issues": 19,
+            "open_issues": 20,
             "owner": "azoner",
             "repo": "pyx12",
             "stars": 190,
@@ -1067,6 +1100,27 @@
             ]
           },
           "first_seen": "2026-08-28T19:26:36.160Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Orca-KK/EDI-Integrity-Toolkit",
+          "description": "(Python) Checks X12 850/855/856/810/997 traffic for fraud and integrity problems (changed remit-to, duplicate invoices, diverted shipments), decodes 997 errors and measures acknowledgment lag.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1446342453,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-09T01:00:52Z",
+            "open_issues": 0,
+            "owner": "Orca-KK",
+            "repo": "EDI-Integrity-Toolkit",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-11-11T15:12:35.834Z"
         }
       ],
       "title": "CLI utilities"
@@ -1086,11 +1140,11 @@
             "id": 19745004,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-10T15:33:16Z",
-            "open_issues": 11292,
+            "last_commit": "2026-11-11T15:10:27Z",
+            "open_issues": 11311,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 55693,
+            "stars": 55712,
             "topics": [
               "apps",
               "business",
@@ -1119,7 +1173,7 @@
             "open_issues": 411,
             "owner": "nextgenhealthcare",
             "repo": "connect",
-            "stars": 1218,
+            "stars": 1219,
             "topics": [
               "healthcare",
               "hl7",
@@ -1143,7 +1197,7 @@
             "id": 227373743,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-11-09T15:26:01Z",
+            "last_commit": "2026-11-11T13:35:37Z",
             "open_issues": 8,
             "owner": "blueseerERP",
             "repo": "blueseer",
@@ -1173,8 +1227,8 @@
             "id": 69865547,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-09T16:34:41Z",
-            "open_issues": 73,
+            "last_commit": "2026-11-11T12:49:57Z",
+            "open_issues": 72,
             "owner": "OCA",
             "repo": "edi",
             "stars": 144,
@@ -1234,7 +1288,7 @@
             "id": 30792567,
             "language": "C#",
             "license": null,
-            "last_commit": "2026-11-02T14:56:33Z",
+            "last_commit": "2026-11-11T12:23:19Z",
             "open_issues": 3,
             "owner": "EdiFabric",
             "repo": "EDIFACT.NET",
@@ -1275,8 +1329,8 @@
             "id": 108129123,
             "language": "C#",
             "license": null,
-            "last_commit": "2026-11-02T14:55:19Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-11T12:25:33Z",
+            "open_issues": 1,
             "owner": "EdiFabric",
             "repo": "X12.NET",
             "stars": 84,
@@ -1444,7 +1498,7 @@
             "id": 751639368,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-22T16:37:41Z",
+            "last_commit": "2026-11-11T03:21:36Z",
             "open_issues": 1,
             "owner": "Healthcare-Data-Insight",
             "repo": "api-examples",
@@ -1494,7 +1548,7 @@
             "id": 198398791,
             "language": "C#",
             "license": null,
-            "last_commit": "2026-11-02T14:57:46Z",
+            "last_commit": "2026-11-11T12:25:21Z",
             "open_issues": 0,
             "owner": "EdiFabric",
             "repo": "VDA.NET",
@@ -1783,8 +1837,8 @@
             "id": 1284156523,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T06:36:20Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-11T12:01:26Z",
+            "open_issues": 0,
             "owner": "Tediware",
             "repo": "tedicli",
             "stars": 4,
@@ -1797,7 +1851,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T15:35:45.563Z",
+    "last_updated": "2026-11-11T15:12:35.834Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of EDI (Mostly) Github Resources",
@@ -1805,7 +1859,7 @@
       "id": 113229846,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-09-30T15:14:14Z",
+      "last_commit": "2026-11-10T16:23:57Z",
       "open_issues": 4,
       "owner": "michaelachrisco",
       "repo": "Electronic-Interchange-Github-Resources",
@@ -1825,7 +1879,7 @@
         "x12"
       ]
     },
-    "original_repository_sha": "951ed854b6d52d5fb75550e87926123121a0b666",
+    "original_repository_sha": "a9f8132ab5a29dece12550a93be3232a73b4c9c7",
     "enhanced_repository": "enhansome/enhansome-Electronic-Interchange-Github-Resources",
     "enhanced_repository_description": null,
     "title": "Awesome Electronic-Interchange-Github-Resources with stars"
