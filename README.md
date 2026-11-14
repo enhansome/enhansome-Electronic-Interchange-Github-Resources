@@ -83,13 +83,13 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ## Systems or Paid Services
 
-* [Odoo](https://github.com/odoo/odoo) ⭐ 55,767 | 🐛 11,285 | 🌐 Python | 📅 2026-11-13 - Odoo. Open Source Apps To Grow Your Business.
-* [nextgenhealthcare](https://github.com/nextgenhealthcare/connect) ⭐ 1,219 | 🐛 411 | 🌐 Java | 📅 2026-09-17 - The swiss army knife of healthcare integration.
+* [Odoo](https://github.com/odoo/odoo) ⭐ 55,787 | 🐛 11,329 | 🌐 Python | 📅 2026-11-14 - Odoo. Open Source Apps To Grow Your Business.
+* [nextgenhealthcare](https://github.com/nextgenhealthcare/connect) ⭐ 1,218 | 🐛 411 | 🌐 Java | 📅 2026-09-17 - The swiss army knife of healthcare integration.
 * [blueseerERP/blueseer](https://github.com/blueseerERP/blueseer) ⭐ 176 | 🐛 8 | 🌐 Java | 📅 2026-11-13 - A Free ERP and EDI solution for the manufacturing community.
 * [OCA/edi](https://github.com/OCA/edi) ⭐ 144 | 🐛 75 | 🌐 Python | 📅 2026-11-12 - EDI Modules for Ooda
 * [BerryWorksSoftware/edireader](https://github.com/BerryWorksSoftware/edireader) ⭐ 143 | 🐛 13 | 🌐 Java | 📅 2026-10-14 - EDIReader is a Java package for parsing business documents structured according to EDI standards. It supports the SAX and JAXP interfaces defined for XML, making it suitable for use in any XML-based system that allows the configuration of a custom SAX parser.
 * [EdiFabric/EDIFACT-Examples](https://github.com/EdiFabric/EDIFACT-Examples) ⭐ 111 | 🐛 3 | 🌐 C# | 📅 2026-11-11 -  EDIFACT and EANCOM Examples for EdiFabric EDI Tools
-* [EdiFabric/X12-Examples](https://github.com/EdiFabric/X12-Examples) ⭐ 84 | 🐛 1 | 🌐 C# | 📅 2026-11-11 - X12 and HIPAA Examples for EdiFabric EDI Tools
+* [EdiFabric/X12-Examples](https://github.com/EdiFabric/X12-Examples) ⭐ 84 | 🐛 2 | 🌐 C# | 📅 2026-11-14 - X12 and HIPAA Examples for EdiFabric EDI Tools
 * [abhishek-ram/pyas2](https://github.com/abhishek-ram/pyas2) ⭐ 47 | 🐛 8 | 🌐 Python | 📅 2020-07-24 - A pythonic AS2 client and server
 * [smooks/smooks-edi-cartridge](https://github.com/smooks/smooks-edi-cartridge) ⭐ 31 | 🐛 22 | 🌐 Java | 📅 2025-11-24 - Smooks EDI & EDIFACT cartridges for reading as well as writing EDI.
 * [Campbellony/X12SqlServer](https://github.com/campbellony/x12sqlserver) ⭐ 5 | 🐛 0 | 🌐 PLpgSQL | 📅 2018-11-29 - Simple X12 data model with TSQL parsing procedures
@@ -141,4 +141,4 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._

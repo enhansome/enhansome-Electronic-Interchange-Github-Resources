@@ -1140,11 +1140,11 @@
             "id": 19745004,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-13T15:17:06Z",
-            "open_issues": 11285,
+            "last_commit": "2026-11-14T13:41:09Z",
+            "open_issues": 11329,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 55767,
+            "stars": 55787,
             "topics": [
               "apps",
               "business",
@@ -1173,7 +1173,7 @@
             "open_issues": 411,
             "owner": "nextgenhealthcare",
             "repo": "connect",
-            "stars": 1219,
+            "stars": 1218,
             "topics": [
               "healthcare",
               "hl7",
@@ -1197,7 +1197,7 @@
             "id": 227373743,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-11-13T14:18:01Z",
+            "last_commit": "2026-11-13T15:38:03Z",
             "open_issues": 8,
             "owner": "blueseerERP",
             "repo": "blueseer",
@@ -1329,8 +1329,8 @@
             "id": 108129123,
             "language": "C#",
             "license": null,
-            "last_commit": "2026-11-11T12:25:33Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-14T05:27:25Z",
+            "open_issues": 2,
             "owner": "EdiFabric",
             "repo": "X12.NET",
             "stars": 84,
@@ -1851,7 +1851,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T15:24:07.362Z",
+    "last_updated": "2026-11-14T14:09:14.866Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of EDI (Mostly) Github Resources",
