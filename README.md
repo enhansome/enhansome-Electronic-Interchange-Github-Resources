@@ -46,7 +46,7 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ### Javascript
 
-* [tastypackets/x12-parser](https://github.com/tastypackets/x12-parser) ⭐ 63 | 🐛 9 | 🌐 TypeScript | 📅 2026-04-06 - X12 parser implemented using the NodeJS Transform API. Tested with over 1M 835 records, but is designed to work with all modern X12 records.
+* [tastypackets/x12-parser](https://github.com/tastypackets/x12-parser) ⭐ 63 | 🐛 10 | 🌐 TypeScript | 📅 2026-04-06 - X12 parser implemented using the NodeJS Transform API. Tested with over 1M 835 records, but is designed to work with all modern X12 records.
 * [aaronhuggins/node-x12](https://github.com/aaronhuggins/node-x12) ⭐ 55 | 🐛 10 | 🌐 TypeScript | 📅 2022-04-30 - ASC X12 parser, generator, query engine, and mapper; now with support for streams.
 * [tdecaluwe/node-edifact](https://github.com/tdecaluwe/node-edifact) ⭐ 53 | 🐛 8 | 🌐 JavaScript | 📅 2021-01-19 - (Javascript) Javascript stream parser for UN/EDIFACT documents.
 * [dlumpp/x12-patient-faker](https://github.com/dlumpp/x12-patient-faker) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-20 - Generates test patient data in HIPAA X12 format
@@ -83,10 +83,10 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ## Systems or Paid Services
 
-* [Odoo](https://github.com/odoo/odoo) ⭐ 55,787 | 🐛 11,329 | 🌐 Python | 📅 2026-11-14 - Odoo. Open Source Apps To Grow Your Business.
+* [Odoo](https://github.com/odoo/odoo) ⭐ 55,809 | 🐛 11,332 | 🌐 Python | 📅 2026-11-15 - Odoo. Open Source Apps To Grow Your Business.
 * [nextgenhealthcare](https://github.com/nextgenhealthcare/connect) ⭐ 1,218 | 🐛 411 | 🌐 Java | 📅 2026-09-17 - The swiss army knife of healthcare integration.
 * [blueseerERP/blueseer](https://github.com/blueseerERP/blueseer) ⭐ 176 | 🐛 8 | 🌐 Java | 📅 2026-11-13 - A Free ERP and EDI solution for the manufacturing community.
-* [OCA/edi](https://github.com/OCA/edi) ⭐ 144 | 🐛 75 | 🌐 Python | 📅 2026-11-12 - EDI Modules for Ooda
+* [OCA/edi](https://github.com/OCA/edi) ⭐ 150 | 🐛 75 | 🌐 Python | 📅 2026-11-12 - EDI Modules for Ooda
 * [BerryWorksSoftware/edireader](https://github.com/BerryWorksSoftware/edireader) ⭐ 143 | 🐛 13 | 🌐 Java | 📅 2026-10-14 - EDIReader is a Java package for parsing business documents structured according to EDI standards. It supports the SAX and JAXP interfaces defined for XML, making it suitable for use in any XML-based system that allows the configuration of a custom SAX parser.
 * [EdiFabric/EDIFACT-Examples](https://github.com/EdiFabric/EDIFACT-Examples) ⭐ 111 | 🐛 3 | 🌐 C# | 📅 2026-11-11 -  EDIFACT and EANCOM Examples for EdiFabric EDI Tools
 * [EdiFabric/X12-Examples](https://github.com/EdiFabric/X12-Examples) ⭐ 84 | 🐛 2 | 🌐 C# | 📅 2026-11-14 - X12 and HIPAA Examples for EdiFabric EDI Tools
@@ -141,4 +141,4 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
