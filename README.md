@@ -12,7 +12,7 @@ List of EDI Github Resources. Pull Requests are Welcome!
 * [xlate/staedi](https://github.com/xlate/staedi) ⭐ 155 | 🐛 7 | 🌐 Java | 📅 2026-11-11 - General X12/EDIFACT stream reader and writer with support for validation of standards with optional schema customizations (i.e. implementation guides)
 * [BerryWorksSoftware/edi-json](https://github.com/BerryWorksSoftware/edi-json) ⭐ 110 | 🐛 14 | 🌐 Java | 📅 2026-09-16 - Serializing EDI as JSON
 * [ballerina-platform/edi-tools](https://github.com/ballerina-platform/edi-tools) ⭐ 107 | 🐛 1 | 🌐 Ballerina | 📅 2026-09-15 - This library provides the functionality required to process EDI files and implement EDI integrations.
-* [imsweb/x12-parser](https://github.com/imsweb/x12-parser) ⭐ 98 | 🐛 8 | 🌐 Java | 📅 2026-06-17 - A Java parser for ANSI ASC X12 documents.
+* [imsweb/x12-parser](https://github.com/imsweb/x12-parser) ⭐ 99 | 🐛 8 | 🌐 Java | 📅 2026-06-17 - A Java parser for ANSI ASC X12 documents.
 * [walmartlabs/gozer](https://github.com/walmartlabs/gozer) ⭐ 76 | 🐛 5 | 🌐 Java | 📅 2026-09-15 - The EDI X12 Standard provides a uniform way for companies to exchange information across different sectors.
 * [mrcsparker/nifi-edireader-bundle](https://github.com/mrcsparker/nifi-edireader-bundle) ⭐ 37 | 🐛 5 | 🌐 Java | 📅 2024-05-27 - Apache NIFI processor that converts EDI ASC X12 and EDIFACT documents into XML
 * [moqui/mantle-edi](https://github.com/moqui/mantle-edi) ⭐ 13 | 🐛 1 | 🌐 Groovy | 📅 2026-03-02 - Mantle EDI Integrations
@@ -22,12 +22,12 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 * [indice-co/EDI.Net](https://github.com/indice-co/EDI.Net) ⭐ 491 | 🐛 90 | 🌐 C# | 📅 2025-12-01 - EDI Serializer/Deserializer. Supports EDIFact, X12 and TRADACOMS formats
 * [olmelabs/EdiEngine](https://github.com/olmelabs/EdiEngine) ⭐ 109 | 🐛 10 | 🌐 C# | 📅 2023-11-02 - Simple .NET EDI Reader, Writer and Validator. Read, Write and Validate X12 EDI files with simple EDI Parser written on C#.
-* [Silvenga/EdiWeave](https://github.com/Silvenga/EdiWeave) ⭐ 65 | 🐛 4 | 🌐 C# | 📅 2024-08-07 - Open Source Hard-Fork of EdiFabric
+* [Silvenga/EdiWeave](https://github.com/Silvenga/EdiWeave) ⭐ 65 | 🐛 5 | 🌐 C# | 📅 2024-08-07 - Open Source Hard-Fork of EdiFabric
 * [MassTransit/Machete](https://github.com/MassTransit/Machete) ⭐ 43 | 🐛 0 | 🌐 C# | 📅 2019-04-25 - Cut through the Crap, with Machete, a text parser, object mapper, and query engine.
 
 ### Python
 
-* [nerdocs/pydifact](https://github.com/nerdocs/pydifact) ⭐ 191 | 🐛 8 | 🌐 Python | 📅 2026-11-16 - A python library for parsing EDIFACT messages
+* [nerdocs/pydifact](https://github.com/nerdocs/pydifact) ⭐ 191 | 🐛 7 | 🌐 Python | 📅 2026-11-16 - A python library for parsing EDIFACT messages
 * [keironstoddart/edi-835-parser](https://github.com/keironstoddart/edi-835-parser) ⭐ 113 | 🐛 20 | 🌐 Python | 📅 2024-06-03 - A simple EDI 835 file format parser.
 * [git-albertomarin/badX12](https://github.com/git-albertomarin/badX12) ⭐ 60 | 🐛 8 | 🌐 Python | 📅 2026-04-13 - A Python Library for parsing ANSI ASC X12 files.
 * [glitchassassin/python-edi](https://github.com/glitchassassin/python-edi) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2023-10-16 - EDI message generator in Python. Creates & validates messages according to specific formats
@@ -52,7 +52,7 @@ List of EDI Github Resources. Pull Requests are Welcome!
 * [dlumpp/x12-patient-faker](https://github.com/dlumpp/x12-patient-faker) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-20 - Generates test patient data in HIPAA X12 format
 * [parcelLab/edi-iftmin](https://github.com/parcelLab/edi-iftmin) ⚠️ Archived - Parsing EDI IFTMIN and IFTSTA messages properly. Yes, EDI. You're welcome.
 * [jinger89/era](https://github.com/jinger89/era) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2025-05-20 - Extremely basic X12 835 file parser
-* [cosyte/x12](https://github.com/cosyte/x12) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-12 - ASC X12 healthcare EDI parser, serializer and builder for Node.js and TypeScript. Covers the 005010 transaction sets adopted under HIPAA and keeps every amount in exact decimal arithmetic.
+* [cosyte/x12](https://github.com/cosyte/x12) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-12 - ASC X12 healthcare EDI parser, serializer and builder for Node.js and TypeScript. Covers the 005010 transaction sets adopted under HIPAA and keeps every amount in exact decimal arithmetic.
 
 ### Ruby
 
@@ -71,7 +71,7 @@ List of EDI Github Resources. Pull Requests are Welcome!
   formats (CSV, txt, fixed length/width, XML, EDI/X12/EDIFACT, JSON, and custom formats) in streaming fashion and transforms data into desired
   JSON output based on a schema written in JSON. See [EDI](https://github.com/jf-tech/omniparser/blob/master/doc/edi_in_depth.md) ⭐ 1,086 | 🐛 1 | 🌐 Go | 📅 2026-10-11 and
   [EDI readers](https://github.com/jf-tech/omniparser/blob/master/doc/programmability.md#full-edi-reader) ⭐ 1,086 | 🐛 1 | 🌐 Go | 📅 2026-10-11 for more usage details.
-* [moov-io/x12](https://github.com/moov-io/x12) ⭐ 22 | 🐛 4 | 🌐 Go | 📅 2026-11-05 - ASC X12 standards reader/writer
+* [moov-io/x12](https://github.com/moov-io/x12) ⭐ 23 | 🐛 4 | 🌐 Go | 📅 2026-11-17 - ASC X12 standards reader/writer
 
 ## CLI utilities
 
@@ -83,13 +83,13 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ## Systems or Paid Services
 
-* [Odoo](https://github.com/odoo/odoo) ⭐ 55,838 | 🐛 11,327 | 🌐 Python | 📅 2026-11-16 - Odoo. Open Source Apps To Grow Your Business.
-* [nextgenhealthcare](https://github.com/nextgenhealthcare/connect) ⭐ 1,218 | 🐛 411 | 🌐 Java | 📅 2026-09-17 - The swiss army knife of healthcare integration.
+* [Odoo](https://github.com/odoo/odoo) ⭐ 55,870 | 🐛 11,331 | 🌐 Python | 📅 2026-11-17 - Odoo. Open Source Apps To Grow Your Business.
+* [nextgenhealthcare](https://github.com/nextgenhealthcare/connect) ⭐ 1,219 | 🐛 411 | 🌐 Java | 📅 2026-09-17 - The swiss army knife of healthcare integration.
 * [blueseerERP/blueseer](https://github.com/blueseerERP/blueseer) ⭐ 176 | 🐛 8 | 🌐 Java | 📅 2026-11-13 - A Free ERP and EDI solution for the manufacturing community.
-* [OCA/edi](https://github.com/OCA/edi) ⭐ 151 | 🐛 71 | 🌐 Python | 📅 2026-11-12 - EDI Modules for Ooda
+* [OCA/edi](https://github.com/OCA/edi) ⭐ 151 | 🐛 70 | 🌐 Python | 📅 2026-11-17 - EDI Modules for Ooda
 * [BerryWorksSoftware/edireader](https://github.com/BerryWorksSoftware/edireader) ⭐ 143 | 🐛 13 | 🌐 Java | 📅 2026-10-14 - EDIReader is a Java package for parsing business documents structured according to EDI standards. It supports the SAX and JAXP interfaces defined for XML, making it suitable for use in any XML-based system that allows the configuration of a custom SAX parser.
-* [EdiFabric/EDIFACT-Examples](https://github.com/EdiFabric/EDIFACT-Examples) ⭐ 111 | 🐛 3 | 🌐 C# | 📅 2026-11-11 -  EDIFACT and EANCOM Examples for EdiFabric EDI Tools
-* [EdiFabric/X12-Examples](https://github.com/EdiFabric/X12-Examples) ⭐ 84 | 🐛 2 | 🌐 C# | 📅 2026-11-14 - X12 and HIPAA Examples for EdiFabric EDI Tools
+* [EdiFabric/EDIFACT-Examples](https://github.com/EdiFabric/EDIFACT-Examples) ⭐ 111 | 🐛 3 | 🌐 C# | 📅 2026-11-17 -  EDIFACT and EANCOM Examples for EdiFabric EDI Tools
+* [EdiFabric/X12-Examples](https://github.com/EdiFabric/X12-Examples) ⭐ 85 | 🐛 2 | 🌐 C# | 📅 2026-11-17 - X12 and HIPAA Examples for EdiFabric EDI Tools
 * [abhishek-ram/pyas2](https://github.com/abhishek-ram/pyas2) ⭐ 47 | 🐛 8 | 🌐 Python | 📅 2020-07-24 - A pythonic AS2 client and server
 * [smooks/smooks-edi-cartridge](https://github.com/smooks/smooks-edi-cartridge) ⭐ 31 | 🐛 22 | 🌐 Java | 📅 2025-11-24 - Smooks EDI & EDIFACT cartridges for reading as well as writing EDI.
 * [Campbellony/X12SqlServer](https://github.com/campbellony/x12sqlserver) ⭐ 5 | 🐛 0 | 🌐 PLpgSQL | 📅 2018-11-29 - Simple X12 data model with TSQL parsing procedures
@@ -104,7 +104,7 @@ List of EDI Github Resources. Pull Requests are Welcome!
 * [PHP Implementations of Transactions](https://github.com/stephenmccready/X12) ⭐ 18 | 🐛 0 | 🌐 PHP | 📅 2023-03-04 - PHP examples of writing EDI from scratch.
 * [Healthcare-Data-Insight/api-examples](https://github.com/Healthcare-Data-Insight/api-examples) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2026-11-12 - X12 EDI Converter API and Java parser usage examples
 * [walkswithme/EDI-X12-ANSI-270](https://github.com/walkswithme/EDI-X12-ANSI-270) ⭐ 8 | 🐛 0 | 🌐 PHP | 📅 2017-12-07 - PHP Library for creating EDI X12 ANSI 270 File 5010 Version
-* [EdiFabric/EDI-Translator-Demo](https://github.com/EdiFabric/EDI-Translator-Demo) ⭐ 6 | 🐛 0 | 🌐 C# | 📅 2026-11-11 - EDI Translator for EDIFACT D.96A, X12 004010 and HIPAA 5010
+* [EdiFabric/EDI-Translator-Demo](https://github.com/EdiFabric/EDI-Translator-Demo) ⭐ 6 | 🐛 0 | 🌐 C# | 📅 2026-11-17 - EDI Translator for EDIFACT D.96A, X12 004010 and HIPAA 5010
 * [EDI Bootstrap (Stedi)](https://github.com/Stedi-Demos/bootstrap) ⚠️ Archived - open-source, end-to-end system to generate and parse X12 EDI from a JSON
 * [Edipique/EDI-X12](https://github.com/dipique/EDI-X12) ⭐ 5 | 🐛 0 | 🌐 C# | 📅 2018-03-05 - Rough process for generating EDI X12 834 and 837 files from a CSV file. Structured in a way that allows easy transition to other data sources.
 
@@ -141,4 +141,4 @@ List of EDI Github Resources. Pull Requests are Welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
