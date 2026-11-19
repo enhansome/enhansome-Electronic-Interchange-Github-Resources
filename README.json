@@ -627,8 +627,8 @@
                 "id": 180612739,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-04-06T19:47:46Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-18T17:46:11Z",
+                "open_issues": 5,
                 "owner": "tastypackets",
                 "repo": "x12-parser",
                 "stars": 63,
@@ -1140,11 +1140,11 @@
             "id": 19745004,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-18T16:23:43Z",
-            "open_issues": 11331,
+            "last_commit": "2026-11-19T16:33:50Z",
+            "open_issues": 11364,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 55901,
+            "stars": 55939,
             "topics": [
               "apps",
               "business",
@@ -1257,7 +1257,7 @@
             "open_issues": 13,
             "owner": "BerryWorksSoftware",
             "repo": "edireader",
-            "stars": 143,
+            "stars": 142,
             "topics": [
               "270",
               "271",
@@ -1856,7 +1856,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T16:27:32.913Z",
+    "last_updated": "2026-11-19T16:34:00.881Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of EDI (Mostly) Github Resources",
