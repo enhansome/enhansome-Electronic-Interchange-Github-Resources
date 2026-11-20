@@ -21,7 +21,7 @@
                 "open_issues": 35,
                 "owner": "smooks",
                 "repo": "smooks",
-                "stars": 423,
+                "stars": 422,
                 "topics": [
                   "analytics",
                   "chunking",
@@ -72,6 +72,29 @@
             },
             {
               "node_type": "item",
+              "title": "ballerina-platform/edi-tools",
+              "description": "This library provides the functionality required to process EDI files and implement EDI integrations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This library provides the functionality required to process EDI files and implement EDI integrations.",
+                "homepage": null,
+                "id": 626312690,
+                "language": "Ballerina",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-15T09:39:39Z",
+                "open_issues": 1,
+                "owner": "ballerina-platform",
+                "repo": "edi-tools",
+                "stars": 110,
+                "topics": [
+                  "ballerina"
+                ]
+              },
+              "first_seen": "2026-08-28T19:26:36.160Z"
+            },
+            {
+              "node_type": "item",
               "title": "BerryWorksSoftware/edi-json",
               "description": "Serializing EDI as JSON",
               "children": [],
@@ -101,29 +124,6 @@
                   "isa",
                   "json",
                   "x12"
-                ]
-              },
-              "first_seen": "2026-08-28T19:26:36.160Z"
-            },
-            {
-              "node_type": "item",
-              "title": "ballerina-platform/edi-tools",
-              "description": "This library provides the functionality required to process EDI files and implement EDI integrations.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "This library provides the functionality required to process EDI files and implement EDI integrations.",
-                "homepage": null,
-                "id": 626312690,
-                "language": "Ballerina",
-                "license": "Apache-2.0",
-                "last_commit": "2026-09-15T09:39:39Z",
-                "open_issues": 1,
-                "owner": "ballerina-platform",
-                "repo": "edi-tools",
-                "stars": 107,
-                "topics": [
-                  "ballerina"
                 ]
               },
               "first_seen": "2026-08-28T19:26:36.160Z"
@@ -936,7 +936,7 @@
                 "open_issues": 1,
                 "owner": "jf-tech",
                 "repo": "omniparser",
-                "stars": 1086,
+                "stars": 1085,
                 "topics": [
                   "codeless",
                   "csv",
@@ -973,7 +973,7 @@
                 "id": 613978039,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-17T06:59:53Z",
+                "last_commit": "2026-11-20T12:13:10Z",
                 "open_issues": 4,
                 "owner": "moov-io",
                 "repo": "x12",
@@ -1121,6 +1121,37 @@
             "topics": []
           },
           "first_seen": "2026-11-11T15:12:35.834Z"
+        },
+        {
+          "node_type": "item",
+          "title": "datawharf-tools/x12diff",
+          "description": "(Kotlin/JVM) Offline CLI for healthcare X12: 834 member diff, 835 remittance to CSV, 837-to-835 reconciliation and 999/277CA rejection tracing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Offline X12 healthcare file tools: 834 member diff, 835 remit flattening, 837-to-835 reconciliation with 999/277CA rejection tracing. Runs locally; no network code.",
+            "homepage": "https://datawharftools.com/x12",
+            "id": 1458235171,
+            "language": "Kotlin",
+            "license": "MIT",
+            "last_commit": "2026-11-18T13:37:37Z",
+            "open_issues": 0,
+            "owner": "datawharf-tools",
+            "repo": "x12diff",
+            "stars": 0,
+            "topics": [
+              "834",
+              "835",
+              "837",
+              "cli",
+              "edi",
+              "healthcare",
+              "hipaa",
+              "kotlin",
+              "x12"
+            ]
+          },
+          "first_seen": "2026-11-20T16:09:16.324Z"
         }
       ],
       "title": "CLI utilities"
@@ -1140,11 +1171,11 @@
             "id": 19745004,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-19T16:33:50Z",
-            "open_issues": 11364,
+            "last_commit": "2026-11-20T15:56:48Z",
+            "open_issues": 11357,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 55939,
+            "stars": 55984,
             "topics": [
               "apps",
               "business",
@@ -1173,7 +1204,7 @@
             "open_issues": 411,
             "owner": "nextgenhealthcare",
             "repo": "connect",
-            "stars": 1219,
+            "stars": 1220,
             "topics": [
               "healthcare",
               "hl7",
@@ -1228,7 +1259,7 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-11-17T14:08:11Z",
-            "open_issues": 70,
+            "open_issues": 71,
             "owner": "OCA",
             "repo": "edi",
             "stars": 151,
@@ -1506,7 +1537,7 @@
             "open_issues": 1,
             "owner": "Healthcare-Data-Insight",
             "repo": "api-examples",
-            "stars": 16,
+            "stars": 15,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:36.160Z"
@@ -1856,7 +1887,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T16:34:00.881Z",
+    "last_updated": "2026-11-20T16:09:16.324Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of EDI (Mostly) Github Resources",
@@ -1864,8 +1895,8 @@
       "id": 113229846,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-11-10T16:23:57Z",
-      "open_issues": 5,
+      "last_commit": "2026-11-19T17:17:58Z",
+      "open_issues": 4,
       "owner": "michaelachrisco",
       "repo": "Electronic-Interchange-Github-Resources",
       "stars": 352,
@@ -1884,7 +1915,7 @@
         "x12"
       ]
     },
-    "original_repository_sha": "a9f8132ab5a29dece12550a93be3232a73b4c9c7",
+    "original_repository_sha": "243c12d168cc59bd22e49cf53a97b2be79090fb2",
     "enhanced_repository": "enhansome/enhansome-Electronic-Interchange-Github-Resources",
     "enhanced_repository_description": null,
     "title": "Awesome Electronic-Interchange-Github-Resources with stars"
