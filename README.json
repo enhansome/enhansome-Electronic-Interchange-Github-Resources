@@ -973,7 +973,7 @@
                 "id": 613978039,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T12:13:10Z",
+                "last_commit": "2026-11-20T18:58:55Z",
                 "open_issues": 4,
                 "owner": "moov-io",
                 "repo": "x12",
@@ -1171,11 +1171,11 @@
             "id": 19745004,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-20T15:56:48Z",
-            "open_issues": 11357,
+            "last_commit": "2026-11-21T14:02:30Z",
+            "open_issues": 11341,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 55984,
+            "stars": 56001,
             "topics": [
               "apps",
               "business",
@@ -1232,7 +1232,7 @@
             "open_issues": 8,
             "owner": "blueseerERP",
             "repo": "blueseer",
-            "stars": 176,
+            "stars": 177,
             "topics": [
               "accounting-software",
               "business-solutions",
@@ -1258,11 +1258,11 @@
             "id": 69865547,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-17T14:08:11Z",
-            "open_issues": 71,
+            "last_commit": "2026-11-21T15:19:43Z",
+            "open_issues": 68,
             "owner": "OCA",
             "repo": "edi",
-            "stars": 151,
+            "stars": 152,
             "topics": [
               "erp",
               "hacktoberfest",
@@ -1322,7 +1322,7 @@
             "last_commit": "2026-11-17T09:44:43Z",
             "open_issues": 3,
             "owner": "EdiFabric",
-            "repo": "EDIFACT.NET",
+            "repo": "edifabric-examples-edifact",
             "stars": 111,
             "topics": [
               "contrl",
@@ -1364,7 +1364,7 @@
             "last_commit": "2026-11-17T09:42:51Z",
             "open_issues": 2,
             "owner": "EdiFabric",
-            "repo": "X12.NET",
+            "repo": "edifabric-examples-x12",
             "stars": 85,
             "topics": [
               "5010",
@@ -1586,7 +1586,7 @@
             "last_commit": "2026-11-17T09:45:39Z",
             "open_issues": 0,
             "owner": "EdiFabric",
-            "repo": "VDA.NET",
+            "repo": "edifabric-examples-vda",
             "stars": 6,
             "topics": [
               "csharp",
@@ -1887,7 +1887,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T16:09:16.324Z",
+    "last_updated": "2026-11-21T15:22:36.753Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of EDI (Mostly) Github Resources",
@@ -1899,7 +1899,7 @@
       "open_issues": 4,
       "owner": "michaelachrisco",
       "repo": "Electronic-Interchange-Github-Resources",
-      "stars": 352,
+      "stars": 353,
       "topics": [
         "5010",
         "awesome-list",
