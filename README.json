@@ -51,7 +51,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-23T10:47:20Z",
-                "open_issues": 8,
+                "open_issues": 11,
                 "owner": "xlate",
                 "repo": "staedi",
                 "stars": 156,
@@ -86,7 +86,7 @@
                 "open_issues": 1,
                 "owner": "ballerina-platform",
                 "repo": "edi-tools",
-                "stars": 110,
+                "stars": 113,
                 "topics": [
                   "ballerina"
                 ]
@@ -973,7 +973,7 @@
                 "id": 613978039,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-23T18:05:09Z",
+                "last_commit": "2026-11-25T01:33:23Z",
                 "open_issues": 4,
                 "owner": "moov-io",
                 "repo": "x12",
@@ -1171,11 +1171,11 @@
             "id": 19745004,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-24T18:48:21Z",
-            "open_issues": 11387,
+            "last_commit": "2026-11-25T17:57:34Z",
+            "open_issues": 11361,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 56073,
+            "stars": 56092,
             "topics": [
               "apps",
               "business",
@@ -1204,7 +1204,7 @@
             "open_issues": 411,
             "owner": "nextgenhealthcare",
             "repo": "connect",
-            "stars": 1220,
+            "stars": 1221,
             "topics": [
               "healthcare",
               "hl7",
@@ -1259,7 +1259,7 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-11-24T15:22:46Z",
-            "open_issues": 64,
+            "open_issues": 66,
             "owner": "OCA",
             "repo": "edi",
             "stars": 152,
@@ -1887,7 +1887,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T18:53:34.020Z",
+    "last_updated": "2026-11-25T17:57:59.620Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of EDI (Mostly) Github Resources",
