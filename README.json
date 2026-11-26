@@ -1117,7 +1117,7 @@
             "open_issues": 0,
             "owner": "Orca-KK",
             "repo": "EDI-Integrity-Toolkit",
-            "stars": 0,
+            "stars": 1,
             "topics": []
           },
           "first_seen": "2026-11-11T15:12:35.834Z"
@@ -1134,7 +1134,7 @@
             "id": 1458235171,
             "language": "Kotlin",
             "license": "MIT",
-            "last_commit": "2026-11-18T13:37:37Z",
+            "last_commit": "2026-11-25T23:54:29Z",
             "open_issues": 0,
             "owner": "datawharf-tools",
             "repo": "x12diff",
@@ -1171,11 +1171,11 @@
             "id": 19745004,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-25T17:57:34Z",
-            "open_issues": 11361,
+            "last_commit": "2026-11-26T17:42:47Z",
+            "open_issues": 11412,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 56092,
+            "stars": 56123,
             "topics": [
               "apps",
               "business",
@@ -1258,8 +1258,8 @@
             "id": 69865547,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-24T15:22:46Z",
-            "open_issues": 66,
+            "last_commit": "2026-11-26T10:44:46Z",
+            "open_issues": 67,
             "owner": "OCA",
             "repo": "edi",
             "stars": 152,
@@ -1537,7 +1537,7 @@
             "open_issues": 1,
             "owner": "Healthcare-Data-Insight",
             "repo": "api-examples",
-            "stars": 15,
+            "stars": 16,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:36.160Z"
@@ -1873,7 +1873,7 @@
             "id": 1284156523,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-18T15:58:47Z",
+            "last_commit": "2026-11-26T12:39:49Z",
             "open_issues": 0,
             "owner": "Tediware",
             "repo": "tedicli",
@@ -1887,7 +1887,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T17:57:59.620Z",
+    "last_updated": "2026-11-26T17:43:30.451Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of EDI (Mostly) Github Resources",
@@ -1899,7 +1899,7 @@
       "open_issues": 4,
       "owner": "michaelachrisco",
       "repo": "Electronic-Interchange-Github-Resources",
-      "stars": 353,
+      "stars": 354,
       "topics": [
         "5010",
         "awesome-list",
