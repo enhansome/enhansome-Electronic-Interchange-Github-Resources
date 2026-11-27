@@ -1012,7 +1012,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-22T20:34:32Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "azoner",
             "repo": "pyx12",
             "stars": 190,
@@ -1171,11 +1171,11 @@
             "id": 19745004,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-26T17:42:47Z",
-            "open_issues": 11412,
+            "last_commit": "2026-11-27T17:08:03Z",
+            "open_issues": 11329,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 56123,
+            "stars": 56154,
             "topics": [
               "apps",
               "business",
@@ -1258,11 +1258,11 @@
             "id": 69865547,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-26T10:44:46Z",
-            "open_issues": 67,
+            "last_commit": "2026-11-27T13:46:44Z",
+            "open_issues": 68,
             "owner": "OCA",
             "repo": "edi",
-            "stars": 152,
+            "stars": 151,
             "topics": [
               "erp",
               "hacktoberfest",
@@ -1887,7 +1887,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T17:43:30.451Z",
+    "last_updated": "2026-11-27T17:27:53.389Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of EDI (Mostly) Github Resources",
